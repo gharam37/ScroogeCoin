@@ -4,18 +4,20 @@ import java.util.UUID;
 public class Coin {
 	
 	String id;
-	ArrayList<Transaction> CoinTransactions;
 	
 	
 	public Coin() {
 		id = "Coin_"+UUID.randomUUID().toString();
 
-		CoinTransactions= new ArrayList<Transaction>();
 	}
 	
 	public void addTransaction() {
 		
 		
+	}
+	
+	public String toString() {
+		return this.id;
 	}
 	
 	public static void main(String[]args) {

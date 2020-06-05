@@ -31,6 +31,17 @@ public class User {
 
     	
     }
+    
+    public String toString() {
+		String Definition=id+"\n"+"Public Key: "+Keys.getPublic()+"\nNumber Of coins:"+Wallet.size()+"\nWallet Content\n";
+		for(int i=0;i<Wallet.size();i++) {
+			Definition+="\n"+Wallet.get(i);
+		}
+		Definition+="\n";
+				
+				
+	    return Definition;
+    }
     public static KeyPair getKeyPairFromKeyStore() throws Exception {
 
 
@@ -61,9 +72,9 @@ public class User {
         return Base64.getEncoder().encodeToString(signature);
     }
 
-    public  boolean verify(String plainText, String signature) throws Exception {
+    public  boolean verify(String plainText, String signature,KeyPair UserKeys) throws Exception {
         Signature publicSignature = Signature.getInstance("SHA256withRSA");
-        publicSignature.initVerify(Keys.getPublic());
+        publicSignature.initVerify(UserKeys.getPublic());
         publicSignature.update(plainText.getBytes(UTF_8));
 
         byte[] signatureBytes = Base64.getDecoder().decode(signature);
@@ -78,7 +89,7 @@ public class User {
         String signature = s.sign("foobar");
 
         //Let's check the signature
-        boolean isCorrect = s.verify("foobar", signature);
+        boolean isCorrect = s.verify("foobar", signature,s.Keys);
         System.out.println("Signature correct: " + isCorrect);
     }
 	

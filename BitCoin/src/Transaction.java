@@ -15,6 +15,9 @@ public class Transaction extends Entity{
 	public String ValueToEncode;
 	
 	
+
+	
+	
 	public Transaction(String Sender,String Receiver,String CoinId,String PrevHash) {
 		super(PrevHash);
 		
@@ -26,10 +29,11 @@ public class Transaction extends Entity{
 		//System.out.println("Receiver"+Receiver);
 		//System.out.println("Coin"+CoinId);
 		//System.out.println("Prev Hash"+PrevHash);
-		ValueToEncode="User: "+Sender+" \n"+"is attempting to send "+CoinId+"\nTo user:" +Receiver+"\nGiven this Previous Hash "+PrevHash;
+		ValueToEncode="User: "+Sender+" \n"+"is attempting to send "+CoinId+"\nTo user:" +Receiver+"\nGiven this Previous Hash: "+PrevHash;
 	
 		Hash(ValueToEncode);
 
+		ValueToEncode+="\nTransaction Hash: "+this.Hash;
 
 
 

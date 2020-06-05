@@ -14,6 +14,20 @@ public class Block extends Entity{
 		
 	}
 	
+	
+	public String toString() {
+		String def= this.id+"\n"+"Hash Value:" +Hash+"\n"+"Number of transaction:"+this.Transactions.size();
+		def+="\nTransactions ids:\n";
+
+		for(int i=0;i<Transactions.size();i++) {
+			def+="\n"+this.Transactions.get(i)+"\n";
+			
+		}
+		
+		return def;
+	}
+	
+	
 	public static void main(String[]args) throws Exception {
 		
 		User s= new User();
