@@ -117,6 +117,8 @@ public class Scrooge extends User {
 	}
 	public boolean PayUser(User Sender,User Receiver, Coin c) throws Exception {
 		Transaction t;
+	    System.out.println("Random transaction\n");
+		writer.println("Random transaction\n");
 		if(Sender.Scrooge) {
 		 t= new Transaction(Sender.id,Receiver.id,c.id,null);
 		}
@@ -245,8 +247,7 @@ public class Scrooge extends User {
 		     // Obtain a number between [0 - 49].
                Random rand = new Random();
 
-            	System.out.println("Random transaction\n");
-				writer.println("Random transaction\n");
+            	
               int n = rand.nextInt(Users.size());
               User Sender= Users.get(n);
               while(Sender.Wallet.size()<=0) {
@@ -254,11 +255,21 @@ public class Scrooge extends User {
                    Sender= Users.get(n);
             	  
               }
-              n = rand.nextInt(Sender.Wallet.size());
-              Coin c = Sender.Wallet.get(n);
               n = rand.nextInt(Users.size());
               User Receiver= Users.get(n);
+              
+              n = rand.nextInt(Sender.Wallet.size());
+          
+              System.out.println("User: "+Sender.id+" Is sending User:"+Receiver.id+" "+(n+1)+" Coins"+"\n");
+              writer.println("User: "+Sender.id+" Is sending User:"+Receiver.id+" "+(n+1)+" Coins"+"\n");
+
+
+              for(int i=0;i<n+1;i++) {
+            	
+              Coin c = Sender.Wallet.get(n);
+           
               PayUser(Sender,Receiver,c);
+              }
 			
 
 				if(input.nextLine().equals(" ")) {
