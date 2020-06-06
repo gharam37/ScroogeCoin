@@ -1,515 +1,3434 @@
 Creating Scrooge
 Creating users and Assigning coins
-Random transaction
-
-User: Scrooge_b5d52bc4-31aa-4831-9265-9230440aa130 
-is attempting to send Coin_ff6c221d-389d-4586-95a1-1d9b8767eb2f
-To user:user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_93d8fa82-7e1d-411b-af83-9f42befef6d1
+To user:user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
 Given this Previous Hash: null
-Transaction Hash: f8b153d7b3982c41a5715205ea07538e70df4aafed5786638083d1842dd36575
+Transaction Hash: 74b6490234b6313197801783ac27cd3f3b01bb809470e8f4324b5b545d540412
 
 Block Under Construction
-block_b3309d32-15f5-4f13-966c-37dd72e9e389
+block_cf7c9488-c6cf-4f8c-9d6e-02bbd9758205
 Hash Value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
 Number of transaction:1
 Transactions ids:
 
-transaction_1870b8a4-9abc-4d7e-8ae0-56e729a5ae6c
+transaction_22456b06-5690-4240-b3be-dae7a16518cc
 
 
-Random transaction
-
-User: Scrooge_b5d52bc4-31aa-4831-9265-9230440aa130 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_ee4cd48f-ebfe-4281-aa46-affaff97e3b5
+To user:user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
 Given this Previous Hash: null
-Transaction Hash: a67853f2aee7305eedde50eb7869ebd81b558c4e7adc57e13dc3f6345c5907a5
+Transaction Hash: adb66b1a8d7388d0cee0450034daab188e28645aaf2be136b535e2dc1e1a405f
+
+Block Under Construction
+block_cf7c9488-c6cf-4f8c-9d6e-02bbd9758205
+Hash Value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number of transaction:2
+Transactions ids:
+
+transaction_22456b06-5690-4240-b3be-dae7a16518cc
+
+transaction_10e5b273-1280-4dbb-875c-fcbe53054098
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_1177764b-043c-4a0a-a31c-9454afac4b3f
+To user:user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
+Given this Previous Hash: null
+Transaction Hash: acf28fd9726e202d0923244d3209614f8d2ea7b0e4040043790608c2602852fd
+
+Block Under Construction
+block_cf7c9488-c6cf-4f8c-9d6e-02bbd9758205
+Hash Value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number of transaction:3
+Transactions ids:
+
+transaction_22456b06-5690-4240-b3be-dae7a16518cc
+
+transaction_10e5b273-1280-4dbb-875c-fcbe53054098
+
+transaction_00133969-ade4-440c-948b-4c32604e591b
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_59a4f8ce-033f-4ce0-9740-76c9638ed254
+To user:user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
+Given this Previous Hash: null
+Transaction Hash: eb7d9792616940b40a4d51894ac092b178be8e9bc743f144ba7aa63b9db15c94
+
+Block Under Construction
+block_cf7c9488-c6cf-4f8c-9d6e-02bbd9758205
+Hash Value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number of transaction:4
+Transactions ids:
+
+transaction_22456b06-5690-4240-b3be-dae7a16518cc
+
+transaction_10e5b273-1280-4dbb-875c-fcbe53054098
+
+transaction_00133969-ade4-440c-948b-4c32604e591b
+
+transaction_29934390-0ce4-452e-9b7a-52b4529bceb9
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_05d7ffa3-b81d-4919-ada3-1455b66e8a97
+To user:user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
+Given this Previous Hash: null
+Transaction Hash: 64d0f35a77c60e312c792746a6216fcbe88eb7dbe08f191dcea27b582508a5c8
+
+Block Under Construction
+block_cf7c9488-c6cf-4f8c-9d6e-02bbd9758205
+Hash Value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number of transaction:5
+Transactions ids:
+
+transaction_22456b06-5690-4240-b3be-dae7a16518cc
+
+transaction_10e5b273-1280-4dbb-875c-fcbe53054098
+
+transaction_00133969-ade4-440c-948b-4c32604e591b
+
+transaction_29934390-0ce4-452e-9b7a-52b4529bceb9
+
+transaction_ca0a9a74-8864-4405-b865-0fdff3dd8432
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_fbe76308-4d8c-4014-83ca-da57d749ff2f
+To user:user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
+Given this Previous Hash: null
+Transaction Hash: 53d9802a137d544dd7df8f5e08f68934cdef6ece8629edd2788c2446fe0c6594
+
+Block Under Construction
+block_cf7c9488-c6cf-4f8c-9d6e-02bbd9758205
+Hash Value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number of transaction:6
+Transactions ids:
+
+transaction_22456b06-5690-4240-b3be-dae7a16518cc
+
+transaction_10e5b273-1280-4dbb-875c-fcbe53054098
+
+transaction_00133969-ade4-440c-948b-4c32604e591b
+
+transaction_29934390-0ce4-452e-9b7a-52b4529bceb9
+
+transaction_ca0a9a74-8864-4405-b865-0fdff3dd8432
+
+transaction_16ad938b-4cc5-4bbb-91d1-f2d365b3ad6a
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_ec26e251-729d-4000-addf-2bad5ec7b71f
+To user:user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
+Given this Previous Hash: null
+Transaction Hash: 844a8346ab55aea6246899c3e79a535542b0d1bd859ef4507ec0b82c5c844eb3
+
+Block Under Construction
+block_cf7c9488-c6cf-4f8c-9d6e-02bbd9758205
+Hash Value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number of transaction:7
+Transactions ids:
+
+transaction_22456b06-5690-4240-b3be-dae7a16518cc
+
+transaction_10e5b273-1280-4dbb-875c-fcbe53054098
+
+transaction_00133969-ade4-440c-948b-4c32604e591b
+
+transaction_29934390-0ce4-452e-9b7a-52b4529bceb9
+
+transaction_ca0a9a74-8864-4405-b865-0fdff3dd8432
+
+transaction_16ad938b-4cc5-4bbb-91d1-f2d365b3ad6a
+
+transaction_c2865396-c68b-4605-adb0-74b1eef77d69
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_16b75b31-006f-4c20-8435-25c5a9e47be6
+To user:user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
+Given this Previous Hash: null
+Transaction Hash: 45275940d38bf328b9e3bb16f2fa11d1be3a0b49737806aec7fce9f7fc19cdce
+
+Block Under Construction
+block_cf7c9488-c6cf-4f8c-9d6e-02bbd9758205
+Hash Value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number of transaction:8
+Transactions ids:
+
+transaction_22456b06-5690-4240-b3be-dae7a16518cc
+
+transaction_10e5b273-1280-4dbb-875c-fcbe53054098
+
+transaction_00133969-ade4-440c-948b-4c32604e591b
+
+transaction_29934390-0ce4-452e-9b7a-52b4529bceb9
+
+transaction_ca0a9a74-8864-4405-b865-0fdff3dd8432
+
+transaction_16ad938b-4cc5-4bbb-91d1-f2d365b3ad6a
+
+transaction_c2865396-c68b-4605-adb0-74b1eef77d69
+
+transaction_523f7bab-7ae6-4fc3-ab05-8a1eee185a2b
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_466483be-1d3f-4b4b-825b-e94fd7b0e917
+To user:user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
+Given this Previous Hash: null
+Transaction Hash: db6e039b05f73e49a0326893d3e0a60b437b0ae37417c9332596958b541209fb
+
+Block Under Construction
+block_cf7c9488-c6cf-4f8c-9d6e-02bbd9758205
+Hash Value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number of transaction:9
+Transactions ids:
+
+transaction_22456b06-5690-4240-b3be-dae7a16518cc
+
+transaction_10e5b273-1280-4dbb-875c-fcbe53054098
+
+transaction_00133969-ade4-440c-948b-4c32604e591b
+
+transaction_29934390-0ce4-452e-9b7a-52b4529bceb9
+
+transaction_ca0a9a74-8864-4405-b865-0fdff3dd8432
+
+transaction_16ad938b-4cc5-4bbb-91d1-f2d365b3ad6a
+
+transaction_c2865396-c68b-4605-adb0-74b1eef77d69
+
+transaction_523f7bab-7ae6-4fc3-ab05-8a1eee185a2b
+
+transaction_d085ca29-8b29-44b7-acbc-9e105da384a8
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_63e65755-ffdc-4c14-877b-0fac69432b17
+To user:user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
+Given this Previous Hash: null
+Transaction Hash: 3b5ffbbc18b2791dafc08c8d535cf064bbb9404dab0a402321625e78dd7c5de1
 
 Blockchain after a new block is added
 Number of blocks:1
-Signature of final block:Ym+vuMEwC9AZN2SbIgrZndZEBISfri6KXQdbF4UJZaeuNSD0roAmVsx0zjmS5vcpUesR/pLyMYELUm/sSAKSHB2NtJUV4QUo2mrwNGF4ZA9x/fARbzks7BpN1/GWVWtJLlYY7DpA0LZGU1LXoUC7jAJRU7rOWNxp3FPFgLM5vedeCzaa/50fCi3YdVElh4ev9vKxit/hLE7Pp/XCFchYe2JIxIfxs/bu8lwfZfQIZ35ZkOggoIB/W6jLvhRDfw0Wd3scYvkOZxYOnYQ4IQ5I4h9czogU7v/AB2no4lUtYMhUlE+4a8WMhgJoig0wKr9Pd2e8SJruW4EZAlnHfFJ5Ag==
+Signature of final block:JgxiGQ/mDDzKMYO3Dmmqu2hrp885aTkyJJ7OSQAo/wF9S7Pb1dhOYAw8x9DRSJILhsyrWRZr0AJsm27OC6rKc3ynIxx7c4kRqfq9bZ14v6EDbZPBf+84Uj06EXR2Z8GnWrS56B94AU/WXYGvGt0CP+AmoNpzd5OemkNzGqooOD11WEhP9ww1M8rAOGS1VuJ+9XO8B1mPhpAxI2+l5bfocSZhAxotYAdK3hFEVKmnER2rPrvmE1kH2VhKTLEBVefRarMcnbZsh5Nyc6MP9lb+sbm3Gm+73bQ5V6ibPXyPdVh7fCFV4XF0MfeJkuK23EQRx9rzgrnN6uPiW4YvX2319w==
 Block:0
 Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
 Hash pointer to previous block:null
-Number Of transactions:2
+Number Of transactions:10
 
 Block Under Construction
-block_2c0107a5-b7d8-4f04-82cc-907f006e8930
+block_e86e31d8-2dcf-49f7-8fac-3f1e8c4e46d1
 Hash Value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
 Number of transaction:0
 Transactions ids:
 
 
-Random transaction
-
-User: Scrooge_b5d52bc4-31aa-4831-9265-9230440aa130 
-is attempting to send Coin_61dd89df-e347-41ca-914d-7fd46f02c8d2
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_d8589bb2-530b-4dc4-a627-ede5c2884958
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
 Given this Previous Hash: null
-Transaction Hash: 1438726e9ebc67f0fa4566155841dd98643b22453a6eed884af62b63760200f7
+Transaction Hash: 3194636db9c7a9488cca0f6c50175d9b76686bec9d2238b3495f7f01fdc74d54
 
 Block Under Construction
-block_2c0107a5-b7d8-4f04-82cc-907f006e8930
+block_e86e31d8-2dcf-49f7-8fac-3f1e8c4e46d1
 Hash Value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
 Number of transaction:1
 Transactions ids:
 
-transaction_28359766-b3ae-40f2-a692-63bda4bc44f7
+transaction_af9f2445-e603-431a-87c6-d3e7f274b2d5
 
 
-Random transaction
-
-User: Scrooge_b5d52bc4-31aa-4831-9265-9230440aa130 
-is attempting to send Coin_ef4cff6f-a548-4d38-aaab-3eff3141ce8a
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_cc51d1f4-7ec9-4bc1-896f-7d91afa116d4
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
 Given this Previous Hash: null
-Transaction Hash: 5a6ecdb193b05d53353307752d918d6c49cd21878aa8c884223abe8b31d1f459
+Transaction Hash: d24bf4b8093ffafd40ed44851bc5bb958615902232e6aa908bed51b6dfc951e
+
+Block Under Construction
+block_e86e31d8-2dcf-49f7-8fac-3f1e8c4e46d1
+Hash Value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number of transaction:2
+Transactions ids:
+
+transaction_af9f2445-e603-431a-87c6-d3e7f274b2d5
+
+transaction_63fa7419-f795-4126-9b04-9b2b09a5f0f9
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_3ead6a2d-549e-4181-9121-ef49b575c9cc
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: null
+Transaction Hash: 21833b30bf764f5f542a209e83e08b32d542dd6b9ffd04652b293e70eb9fc7f0
+
+Block Under Construction
+block_e86e31d8-2dcf-49f7-8fac-3f1e8c4e46d1
+Hash Value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number of transaction:3
+Transactions ids:
+
+transaction_af9f2445-e603-431a-87c6-d3e7f274b2d5
+
+transaction_63fa7419-f795-4126-9b04-9b2b09a5f0f9
+
+transaction_c7a6f7c5-889a-4997-8411-780d767ae929
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_0e158027-c95d-4093-a7e9-eb03ec80bbf3
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: null
+Transaction Hash: a95f817535599dd5cb1306335ea726318d2cf0fb747b99dcc02e87842585f67
+
+Block Under Construction
+block_e86e31d8-2dcf-49f7-8fac-3f1e8c4e46d1
+Hash Value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number of transaction:4
+Transactions ids:
+
+transaction_af9f2445-e603-431a-87c6-d3e7f274b2d5
+
+transaction_63fa7419-f795-4126-9b04-9b2b09a5f0f9
+
+transaction_c7a6f7c5-889a-4997-8411-780d767ae929
+
+transaction_35a59bf5-b134-4d70-bcd8-35471a69e076
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_7e192c01-9e5e-40df-814f-9a43c75dd2fc
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: null
+Transaction Hash: e07037eca0e2756ae929d6e96ca86e5c4a1417a9e7e16f23b93c4b2696b73aff
+
+Block Under Construction
+block_e86e31d8-2dcf-49f7-8fac-3f1e8c4e46d1
+Hash Value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number of transaction:5
+Transactions ids:
+
+transaction_af9f2445-e603-431a-87c6-d3e7f274b2d5
+
+transaction_63fa7419-f795-4126-9b04-9b2b09a5f0f9
+
+transaction_c7a6f7c5-889a-4997-8411-780d767ae929
+
+transaction_35a59bf5-b134-4d70-bcd8-35471a69e076
+
+transaction_a84a955a-caae-4c47-9b76-9e7ab2c8ed3f
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_3567e3b8-f688-4d5f-81ae-6ddf14769d53
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: null
+Transaction Hash: bbc73dcc4ca3ac0610ca94d8745270070552e0909a69d2adeb99b7f5a04fae27
+
+Block Under Construction
+block_e86e31d8-2dcf-49f7-8fac-3f1e8c4e46d1
+Hash Value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number of transaction:6
+Transactions ids:
+
+transaction_af9f2445-e603-431a-87c6-d3e7f274b2d5
+
+transaction_63fa7419-f795-4126-9b04-9b2b09a5f0f9
+
+transaction_c7a6f7c5-889a-4997-8411-780d767ae929
+
+transaction_35a59bf5-b134-4d70-bcd8-35471a69e076
+
+transaction_a84a955a-caae-4c47-9b76-9e7ab2c8ed3f
+
+transaction_7eb45094-fcf9-4c73-9ddc-df58f35f48ce
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_5438f28b-210a-47d7-9b97-b62006f243e9
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: null
+Transaction Hash: a14ce8cb31ab0f793c167176d2522c320f7aa3fcc0f3b45ee059836e304c3da7
+
+Block Under Construction
+block_e86e31d8-2dcf-49f7-8fac-3f1e8c4e46d1
+Hash Value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number of transaction:7
+Transactions ids:
+
+transaction_af9f2445-e603-431a-87c6-d3e7f274b2d5
+
+transaction_63fa7419-f795-4126-9b04-9b2b09a5f0f9
+
+transaction_c7a6f7c5-889a-4997-8411-780d767ae929
+
+transaction_35a59bf5-b134-4d70-bcd8-35471a69e076
+
+transaction_a84a955a-caae-4c47-9b76-9e7ab2c8ed3f
+
+transaction_7eb45094-fcf9-4c73-9ddc-df58f35f48ce
+
+transaction_2801612f-8b01-4b9c-aedf-5c6367180691
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_ae64a6c9-3140-47cb-80af-2acc24a77f88
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: null
+Transaction Hash: dc32eeb5385a71b4cdcd860c8afb848a1a5ad444874023724c9c82ea31919de1
+
+Block Under Construction
+block_e86e31d8-2dcf-49f7-8fac-3f1e8c4e46d1
+Hash Value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number of transaction:8
+Transactions ids:
+
+transaction_af9f2445-e603-431a-87c6-d3e7f274b2d5
+
+transaction_63fa7419-f795-4126-9b04-9b2b09a5f0f9
+
+transaction_c7a6f7c5-889a-4997-8411-780d767ae929
+
+transaction_35a59bf5-b134-4d70-bcd8-35471a69e076
+
+transaction_a84a955a-caae-4c47-9b76-9e7ab2c8ed3f
+
+transaction_7eb45094-fcf9-4c73-9ddc-df58f35f48ce
+
+transaction_2801612f-8b01-4b9c-aedf-5c6367180691
+
+transaction_774109ff-15c4-4f96-8778-8cb33f4914bb
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_3ceff2dd-8884-4ca7-a85d-5ad551f31fab
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: null
+Transaction Hash: c733bb25abb61f8bb664cd0c9d2ae75bbc0a1852a4786fcfacb40466bca22135
+
+Block Under Construction
+block_e86e31d8-2dcf-49f7-8fac-3f1e8c4e46d1
+Hash Value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number of transaction:9
+Transactions ids:
+
+transaction_af9f2445-e603-431a-87c6-d3e7f274b2d5
+
+transaction_63fa7419-f795-4126-9b04-9b2b09a5f0f9
+
+transaction_c7a6f7c5-889a-4997-8411-780d767ae929
+
+transaction_35a59bf5-b134-4d70-bcd8-35471a69e076
+
+transaction_a84a955a-caae-4c47-9b76-9e7ab2c8ed3f
+
+transaction_7eb45094-fcf9-4c73-9ddc-df58f35f48ce
+
+transaction_2801612f-8b01-4b9c-aedf-5c6367180691
+
+transaction_774109ff-15c4-4f96-8778-8cb33f4914bb
+
+transaction_d5e93cc2-f132-40d3-90eb-c4e3e7e6ac92
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_5ff5830e-c796-43fe-9e7b-dfccd29bd5f2
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: null
+Transaction Hash: ac80cecf362351e5e44a58b96c3921988f809b2d09d3a20588271c1ddf8cc8c3
 
 Blockchain after a new block is added
 Number of blocks:2
-Signature of final block:ECCf97K63uSqSiVLv2p95zVKxaGaf+zVPdLgPHAaxuoyegRwfmZoWo88e9SSC6nnhJxDPsfHlc20Qe5Xyo/089AqbU/1pbqcpp4vuMmunqmIIYuqfsbKSNpwhb3nkr8NdNny1dKPXkxGSR1EgS8ciu+6EA0clMifALX2c9YsKoN/Y1P7AgcD6FxAAw9S/04ul/bClKpF6d4JGN1iTSdEVsEs4BWNSRH4lfQ8u8Ma7rUMdS5uXksBfzUGxtkJ2qxO7D+21Pchny62jjqCGK7t0YDScCg4QnfvjSGr95Xni7z9Jt36/jWDXFMndtu8LWj0JwRxva3SKRDQQVLbfTXGVQ==
+Signature of final block:Sz1OKQU7C2W9eIcoQBzi7LheYcmcPlAFNlrh8cseoO6C8ncOtE+Z2wM+64wn4nIOcSkctQZXZhuIAl0eS+PA9Q7Tz3VVh7recPpxF2xcPlIx+EWKQJhuig//clgWF3BfHY9kOdk0K0wN11MevYmUOg79HrAsqgnuJVXfiufWdi/qBdM/mUVeQVOELu3MKE/5NxD29l7RYX75x+rDluGrlmw4BiecH6LisOG1PD/OIi5nSbGGmbC6hPWshBld0ZWVzI/WiXNn61vQF2c3CFGJkl9cZ8KWwcMOmK1B0zTsACWwnRDHYaVqvyd9KlHxFb7iwODwsF5vIDD0V5c91SE14A==
 Block:0
 Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
 Hash pointer to previous block:null
-Number Of transactions:2
+Number Of transactions:10
 Block:1
 Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
 Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
-Number Of transactions:2
+Number Of transactions:10
 
 Block Under Construction
-block_27a3d20c-1255-418e-8d69-38aa4e0fe018
+block_f2ccbe01-003c-404a-9401-dd014f042f21
 Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number of transaction:0
+Transactions ids:
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_8a637039-0b42-4865-8030-f5194465a94e
+To user:user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Given this Previous Hash: null
+Transaction Hash: feeb377c218be9013556cd78b9e5c6e4f2d8679b4e5d0087000d9d01d2cfa826
+
+Block Under Construction
+block_f2ccbe01-003c-404a-9401-dd014f042f21
+Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number of transaction:1
+Transactions ids:
+
+transaction_11477087-3f76-4351-8368-b12bc5ce2845
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_d46f779f-021b-4770-b85a-a4ec0cc39e0f
+To user:user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Given this Previous Hash: null
+Transaction Hash: adb9d4a53adbdef63a19dcda5990480f8728bbba8f5e130da5eb7ca777a9c0c7
+
+Block Under Construction
+block_f2ccbe01-003c-404a-9401-dd014f042f21
+Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number of transaction:2
+Transactions ids:
+
+transaction_11477087-3f76-4351-8368-b12bc5ce2845
+
+transaction_564d1a93-6d75-4672-acb5-5d1e3469499e
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_14b2a909-ddfd-4763-8088-df97578acb35
+To user:user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Given this Previous Hash: null
+Transaction Hash: b09b271db200a30ae556be8a3c299adf7f857af67f1541563a68c221350d199d
+
+Block Under Construction
+block_f2ccbe01-003c-404a-9401-dd014f042f21
+Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number of transaction:3
+Transactions ids:
+
+transaction_11477087-3f76-4351-8368-b12bc5ce2845
+
+transaction_564d1a93-6d75-4672-acb5-5d1e3469499e
+
+transaction_e75a5f55-0280-422f-ade5-66dfed3daa29
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_638f02c0-553d-4190-ba13-5e47e737275a
+To user:user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Given this Previous Hash: null
+Transaction Hash: 53197b10c1e8ca3e716e27b1b56505ddb82fb6693f2747e1f1cc407371087a09
+
+Block Under Construction
+block_f2ccbe01-003c-404a-9401-dd014f042f21
+Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number of transaction:4
+Transactions ids:
+
+transaction_11477087-3f76-4351-8368-b12bc5ce2845
+
+transaction_564d1a93-6d75-4672-acb5-5d1e3469499e
+
+transaction_e75a5f55-0280-422f-ade5-66dfed3daa29
+
+transaction_0fef22ec-f5e0-4708-adf0-2b3ebabe7f65
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_32e3f689-14ce-4b65-9c4b-a35067cdbcaf
+To user:user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Given this Previous Hash: null
+Transaction Hash: 4e4281b1253b51a1886f13876f5ad81bf566bc506b9563d3c7a8ba69593140cd
+
+Block Under Construction
+block_f2ccbe01-003c-404a-9401-dd014f042f21
+Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number of transaction:5
+Transactions ids:
+
+transaction_11477087-3f76-4351-8368-b12bc5ce2845
+
+transaction_564d1a93-6d75-4672-acb5-5d1e3469499e
+
+transaction_e75a5f55-0280-422f-ade5-66dfed3daa29
+
+transaction_0fef22ec-f5e0-4708-adf0-2b3ebabe7f65
+
+transaction_333cbd32-be85-4904-a0b6-c8708204a9f2
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_2e188a73-3162-4a34-93cc-f3fd802e0d72
+To user:user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Given this Previous Hash: null
+Transaction Hash: aa8f9ed5c936cc2bc77c2608492a5d7e5654a37d56078f90d302d89cb8debd88
+
+Block Under Construction
+block_f2ccbe01-003c-404a-9401-dd014f042f21
+Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number of transaction:6
+Transactions ids:
+
+transaction_11477087-3f76-4351-8368-b12bc5ce2845
+
+transaction_564d1a93-6d75-4672-acb5-5d1e3469499e
+
+transaction_e75a5f55-0280-422f-ade5-66dfed3daa29
+
+transaction_0fef22ec-f5e0-4708-adf0-2b3ebabe7f65
+
+transaction_333cbd32-be85-4904-a0b6-c8708204a9f2
+
+transaction_e2ecd2dc-e015-4dcc-9895-a20ef025ceb3
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_25417084-a22e-4023-a133-a224b34b39f4
+To user:user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Given this Previous Hash: null
+Transaction Hash: 9436f4e3fc19913cfcb0277ff5acd7ba8f21ac2c582d5a7e680748a26115615f
+
+Block Under Construction
+block_f2ccbe01-003c-404a-9401-dd014f042f21
+Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number of transaction:7
+Transactions ids:
+
+transaction_11477087-3f76-4351-8368-b12bc5ce2845
+
+transaction_564d1a93-6d75-4672-acb5-5d1e3469499e
+
+transaction_e75a5f55-0280-422f-ade5-66dfed3daa29
+
+transaction_0fef22ec-f5e0-4708-adf0-2b3ebabe7f65
+
+transaction_333cbd32-be85-4904-a0b6-c8708204a9f2
+
+transaction_e2ecd2dc-e015-4dcc-9895-a20ef025ceb3
+
+transaction_12a17c07-0ab1-4f55-b7c2-66d156f5c6ee
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_3a97afc8-9006-4d5d-8e4b-5b621321b8e6
+To user:user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Given this Previous Hash: null
+Transaction Hash: 1530292a0b7cc4e6fb8c3d30a396e8bf9150046e440d0e0cbd93d499d22dd375
+
+Block Under Construction
+block_f2ccbe01-003c-404a-9401-dd014f042f21
+Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number of transaction:8
+Transactions ids:
+
+transaction_11477087-3f76-4351-8368-b12bc5ce2845
+
+transaction_564d1a93-6d75-4672-acb5-5d1e3469499e
+
+transaction_e75a5f55-0280-422f-ade5-66dfed3daa29
+
+transaction_0fef22ec-f5e0-4708-adf0-2b3ebabe7f65
+
+transaction_333cbd32-be85-4904-a0b6-c8708204a9f2
+
+transaction_e2ecd2dc-e015-4dcc-9895-a20ef025ceb3
+
+transaction_12a17c07-0ab1-4f55-b7c2-66d156f5c6ee
+
+transaction_9bf6d352-6192-48f4-87b0-2cebc6585ead
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_60477ef7-76f0-4e21-bd98-b3945dbf9e4d
+To user:user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Given this Previous Hash: null
+Transaction Hash: 3ea2d9505ec2b79471158904ac2c721099cd29548d47918e88e7b950b97110ba
+
+Block Under Construction
+block_f2ccbe01-003c-404a-9401-dd014f042f21
+Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number of transaction:9
+Transactions ids:
+
+transaction_11477087-3f76-4351-8368-b12bc5ce2845
+
+transaction_564d1a93-6d75-4672-acb5-5d1e3469499e
+
+transaction_e75a5f55-0280-422f-ade5-66dfed3daa29
+
+transaction_0fef22ec-f5e0-4708-adf0-2b3ebabe7f65
+
+transaction_333cbd32-be85-4904-a0b6-c8708204a9f2
+
+transaction_e2ecd2dc-e015-4dcc-9895-a20ef025ceb3
+
+transaction_12a17c07-0ab1-4f55-b7c2-66d156f5c6ee
+
+transaction_9bf6d352-6192-48f4-87b0-2cebc6585ead
+
+transaction_511770f2-a8ee-4096-b616-818877fc378e
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_35057cbd-216b-4b8b-be9f-9d94acc50ba9
+To user:user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Given this Previous Hash: null
+Transaction Hash: 6c30cde726d65b93a6e65553b393afb606d6e7a731f5f9e1ac154395e60adf7a
+
+Blockchain after a new block is added
+Number of blocks:3
+Signature of final block:AolQY2DyQfkAproO75mPQ/FK2KZRUVEwj/kivrS953i8x/oh4I2KkefmM4PWBs9m9R4LxbSl7atSLgC9Eb6GCSd7V/SU/abLIFARYbljUiU7kqNOWUAKMbDrYR1fSW8mk1ybqa1rgjMN6sl8wEoMf+0nIDGybhS8zNKqBKvevNQw9VfBexIHF0vj7Qu8Kztrc/M00AYqmLB2flb0r2DhqoNe6rzXV2oRNFlH46y6NVrE4X+2F4OhVqlpl/9ZqNtwRAUKmvi0Lxo6nM0cI2QhkHlNuFrUD8pSJHn1QmbgtbVL9egp3txr7Qb+S5v1cRDuA2HCpkaq/1vpnsxhQrvltA==
+Block:0
+Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Hash pointer to previous block:null
+Number Of transactions:10
+Block:1
+Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number Of transactions:10
+Block:2
+Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number Of transactions:10
+
+Block Under Construction
+block_35a9d0f1-8346-4673-b487-e9f38fb9bb52
+Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number of transaction:0
+Transactions ids:
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_3aaea0ba-a253-4b82-a52a-8a6a3e3d6491
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: null
+Transaction Hash: 99905a099d8f4aa4d9deabbb8c6cf95aefd0ae9e5dcc5617cbf41c5aa38fb384
+
+Block Under Construction
+block_35a9d0f1-8346-4673-b487-e9f38fb9bb52
+Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number of transaction:1
+Transactions ids:
+
+transaction_58ef2027-6fe7-4192-85a2-8e3155d4e954
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_281b20f5-ef97-491a-9f69-f828c3a11335
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: null
+Transaction Hash: cf9f98706a689a3d4c30ecdd73e9d275335652c38f81394c352eac32d795278b
+
+Block Under Construction
+block_35a9d0f1-8346-4673-b487-e9f38fb9bb52
+Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number of transaction:2
+Transactions ids:
+
+transaction_58ef2027-6fe7-4192-85a2-8e3155d4e954
+
+transaction_99e53c1c-b76e-4d18-92a0-62920de29628
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_f6664923-e67a-4843-bb5f-5c9ce5fcf204
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: null
+Transaction Hash: 87e1ab9b6951d50bfe9bcddc8e440b269a206d78e853dc79998c9d9bc78c29c4
+
+Block Under Construction
+block_35a9d0f1-8346-4673-b487-e9f38fb9bb52
+Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number of transaction:3
+Transactions ids:
+
+transaction_58ef2027-6fe7-4192-85a2-8e3155d4e954
+
+transaction_99e53c1c-b76e-4d18-92a0-62920de29628
+
+transaction_58a21bf6-0a73-4b3d-a7c4-df1cca742c50
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_6b9fb93d-aa23-4cb3-a3f2-f9b0326b23e7
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: null
+Transaction Hash: affe652b2af07268a76b144a2b13729522fb36f747ec489f4c57d9159cb433f7
+
+Block Under Construction
+block_35a9d0f1-8346-4673-b487-e9f38fb9bb52
+Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number of transaction:4
+Transactions ids:
+
+transaction_58ef2027-6fe7-4192-85a2-8e3155d4e954
+
+transaction_99e53c1c-b76e-4d18-92a0-62920de29628
+
+transaction_58a21bf6-0a73-4b3d-a7c4-df1cca742c50
+
+transaction_cf868e2f-a385-43f5-af62-e801b98d6b3a
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_a548b9fb-fae3-4f00-b33b-0eac58aca4df
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: null
+Transaction Hash: 7b37b5482f673b68431eb2063f324f6abb9609a47a44a3a5eb67af0556358045
+
+Block Under Construction
+block_35a9d0f1-8346-4673-b487-e9f38fb9bb52
+Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number of transaction:5
+Transactions ids:
+
+transaction_58ef2027-6fe7-4192-85a2-8e3155d4e954
+
+transaction_99e53c1c-b76e-4d18-92a0-62920de29628
+
+transaction_58a21bf6-0a73-4b3d-a7c4-df1cca742c50
+
+transaction_cf868e2f-a385-43f5-af62-e801b98d6b3a
+
+transaction_e258ebea-adde-4c5f-ad59-64a13c9e3de5
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_522500a2-7017-4fd0-90bf-3e57ebbb7c7b
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: null
+Transaction Hash: 20272ff0639e5f315627b07657ffc72c8ed5c7f2b9fd3113d87d4ded1f50f73a
+
+Block Under Construction
+block_35a9d0f1-8346-4673-b487-e9f38fb9bb52
+Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number of transaction:6
+Transactions ids:
+
+transaction_58ef2027-6fe7-4192-85a2-8e3155d4e954
+
+transaction_99e53c1c-b76e-4d18-92a0-62920de29628
+
+transaction_58a21bf6-0a73-4b3d-a7c4-df1cca742c50
+
+transaction_cf868e2f-a385-43f5-af62-e801b98d6b3a
+
+transaction_e258ebea-adde-4c5f-ad59-64a13c9e3de5
+
+transaction_455982c4-b9f7-492b-b879-edfa0d56a5fa
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_60fa8ac9-f2a0-4c18-aba6-c60dc1ee9aec
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: null
+Transaction Hash: 17c12ecd2762c076101646b6cd9c104726b0fcddbe62f390e3a96ebff88e807f
+
+Block Under Construction
+block_35a9d0f1-8346-4673-b487-e9f38fb9bb52
+Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number of transaction:7
+Transactions ids:
+
+transaction_58ef2027-6fe7-4192-85a2-8e3155d4e954
+
+transaction_99e53c1c-b76e-4d18-92a0-62920de29628
+
+transaction_58a21bf6-0a73-4b3d-a7c4-df1cca742c50
+
+transaction_cf868e2f-a385-43f5-af62-e801b98d6b3a
+
+transaction_e258ebea-adde-4c5f-ad59-64a13c9e3de5
+
+transaction_455982c4-b9f7-492b-b879-edfa0d56a5fa
+
+transaction_fe4adf80-0283-4957-a204-1c11ba5c95db
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_b4b586c3-c927-4a87-b8b6-6e8bcd9d0a90
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: null
+Transaction Hash: e243eed97cf40b667a36fd7c12f4875064c44d77a466901997e756f174653935
+
+Block Under Construction
+block_35a9d0f1-8346-4673-b487-e9f38fb9bb52
+Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number of transaction:8
+Transactions ids:
+
+transaction_58ef2027-6fe7-4192-85a2-8e3155d4e954
+
+transaction_99e53c1c-b76e-4d18-92a0-62920de29628
+
+transaction_58a21bf6-0a73-4b3d-a7c4-df1cca742c50
+
+transaction_cf868e2f-a385-43f5-af62-e801b98d6b3a
+
+transaction_e258ebea-adde-4c5f-ad59-64a13c9e3de5
+
+transaction_455982c4-b9f7-492b-b879-edfa0d56a5fa
+
+transaction_fe4adf80-0283-4957-a204-1c11ba5c95db
+
+transaction_2ad44441-8aa4-4f83-8cc8-241bb45c7d67
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_e7698ae0-9b18-4b97-b3c5-2b89880e63fc
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: null
+Transaction Hash: 4d63947b2b5a8d98712f09c87eafdfd5e85e4997b74d3a53b9a1f63efb1a343
+
+Block Under Construction
+block_35a9d0f1-8346-4673-b487-e9f38fb9bb52
+Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number of transaction:9
+Transactions ids:
+
+transaction_58ef2027-6fe7-4192-85a2-8e3155d4e954
+
+transaction_99e53c1c-b76e-4d18-92a0-62920de29628
+
+transaction_58a21bf6-0a73-4b3d-a7c4-df1cca742c50
+
+transaction_cf868e2f-a385-43f5-af62-e801b98d6b3a
+
+transaction_e258ebea-adde-4c5f-ad59-64a13c9e3de5
+
+transaction_455982c4-b9f7-492b-b879-edfa0d56a5fa
+
+transaction_fe4adf80-0283-4957-a204-1c11ba5c95db
+
+transaction_2ad44441-8aa4-4f83-8cc8-241bb45c7d67
+
+transaction_b2390a78-4e12-43d3-932f-2776f9e6cfb1
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_8cf82f76-40f8-4000-b5f5-e6da96bcb7de
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: null
+Transaction Hash: b2970734174ef7b4c2883e0c278724b9699faff4111ccb33870c17f0181e1e5a
+
+Blockchain after a new block is added
+Number of blocks:4
+Signature of final block:SLoFn+4xmjGhPi+x/9/koHyFjFpFKBlvxFEUcLPjnSzJcHc/3CUKetNGpm3V7i3dSmmfd8Ct2Ghcgeb/6povi6cMRFvpbzKESAt6vjDfFCt3tIsLXsH+L4GNJWt0OGwj6rNCrHXZpceZC8fBiqp9Ut4gQZd7K5wynPXrpwuIAjq2pHCoM46yQ9d6TVYhdyE/XQMkF+xYcgeRHEf9e28jVpGsYSEPeeJQ8c/T3LxfVScirJunS4w1ebvUA2KbqAgJyVS2gdXLUG0b7Du3tpjOcfUqfmFioeBW35a7vxJNWbY7f3lXT8HhZUYO9poGCbZNuurwSkSaQnIxyVxQWLPonA==
+Block:0
+Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Hash pointer to previous block:null
+Number Of transactions:10
+Block:1
+Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number Of transactions:10
+Block:2
+Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number Of transactions:10
+Block:3
+Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number Of transactions:10
+
+Block Under Construction
+block_b3af3141-7064-472a-95d3-125141102332
+Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number of transaction:0
+Transactions ids:
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_4aecefad-a62e-4df2-8dec-c4ae7622e1c3
+To user:user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Given this Previous Hash: null
+Transaction Hash: c6b7e0539bbb1acb6e7d8a50044359f21d31232eb96a260fd6e19cc53f33a69d
+
+Block Under Construction
+block_b3af3141-7064-472a-95d3-125141102332
+Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number of transaction:1
+Transactions ids:
+
+transaction_39794c64-65de-4910-8c67-a7a0213077df
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_ab6ae569-4dd5-4199-a8ea-10c17742bad5
+To user:user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Given this Previous Hash: null
+Transaction Hash: a554dc37503dcdf04ac885ad644f8a29865663a894c819d7c7088e57de61fcfe
+
+Block Under Construction
+block_b3af3141-7064-472a-95d3-125141102332
+Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number of transaction:2
+Transactions ids:
+
+transaction_39794c64-65de-4910-8c67-a7a0213077df
+
+transaction_6cd5f2e4-4582-4f20-9a16-bcd50ed3d29a
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_8c43a10f-1496-467b-b379-b8b768b36101
+To user:user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Given this Previous Hash: null
+Transaction Hash: 1f3685b7d36f4788a4a56e223150f2408898c30f999113d11461a4fb17bd2018
+
+Block Under Construction
+block_b3af3141-7064-472a-95d3-125141102332
+Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number of transaction:3
+Transactions ids:
+
+transaction_39794c64-65de-4910-8c67-a7a0213077df
+
+transaction_6cd5f2e4-4582-4f20-9a16-bcd50ed3d29a
+
+transaction_22764851-f3cd-4ac6-b895-809c34d94251
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_6e7ed800-06fe-4530-abb3-48c8f89fb2d5
+To user:user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Given this Previous Hash: null
+Transaction Hash: db9bb73fe4a697113a81f94710c36f52458c059b675f2bb21ea247bf70106c0b
+
+Block Under Construction
+block_b3af3141-7064-472a-95d3-125141102332
+Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number of transaction:4
+Transactions ids:
+
+transaction_39794c64-65de-4910-8c67-a7a0213077df
+
+transaction_6cd5f2e4-4582-4f20-9a16-bcd50ed3d29a
+
+transaction_22764851-f3cd-4ac6-b895-809c34d94251
+
+transaction_f346c093-0052-41ab-9ee4-82de8a8f0e28
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_edfc0677-c87b-420f-ba13-843208e8aeae
+To user:user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Given this Previous Hash: null
+Transaction Hash: b039f0edeebabdf08f106215633247b666ffab48f4a38a865b4c2b8987b5b50b
+
+Block Under Construction
+block_b3af3141-7064-472a-95d3-125141102332
+Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number of transaction:5
+Transactions ids:
+
+transaction_39794c64-65de-4910-8c67-a7a0213077df
+
+transaction_6cd5f2e4-4582-4f20-9a16-bcd50ed3d29a
+
+transaction_22764851-f3cd-4ac6-b895-809c34d94251
+
+transaction_f346c093-0052-41ab-9ee4-82de8a8f0e28
+
+transaction_f4affd88-889b-47de-8084-1c69ba22b75f
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_fd03c194-d2e8-457c-ae07-08b2603d4d69
+To user:user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Given this Previous Hash: null
+Transaction Hash: c79eaa3c6d12802953b162e6a472c015c78586ec16461ca54983a0986ad95be
+
+Block Under Construction
+block_b3af3141-7064-472a-95d3-125141102332
+Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number of transaction:6
+Transactions ids:
+
+transaction_39794c64-65de-4910-8c67-a7a0213077df
+
+transaction_6cd5f2e4-4582-4f20-9a16-bcd50ed3d29a
+
+transaction_22764851-f3cd-4ac6-b895-809c34d94251
+
+transaction_f346c093-0052-41ab-9ee4-82de8a8f0e28
+
+transaction_f4affd88-889b-47de-8084-1c69ba22b75f
+
+transaction_1207477f-355b-4785-af8d-136ef30266b3
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_d0d882da-597d-4d37-86b5-8cf5ac03c599
+To user:user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Given this Previous Hash: null
+Transaction Hash: 782745a9f942f7a21dbbcecbb8751b5bd618c6ac5a98217be29c38921cafc0cd
+
+Block Under Construction
+block_b3af3141-7064-472a-95d3-125141102332
+Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number of transaction:7
+Transactions ids:
+
+transaction_39794c64-65de-4910-8c67-a7a0213077df
+
+transaction_6cd5f2e4-4582-4f20-9a16-bcd50ed3d29a
+
+transaction_22764851-f3cd-4ac6-b895-809c34d94251
+
+transaction_f346c093-0052-41ab-9ee4-82de8a8f0e28
+
+transaction_f4affd88-889b-47de-8084-1c69ba22b75f
+
+transaction_1207477f-355b-4785-af8d-136ef30266b3
+
+transaction_488589ca-4dd6-4629-a468-ba44a5cd0d45
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_f520e307-e854-44f8-9e72-a60f70d4651e
+To user:user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Given this Previous Hash: null
+Transaction Hash: a0b2acbc8bb77458ac1810e99e57291eb509a104c8a5f21efb43781f44eb699e
+
+Block Under Construction
+block_b3af3141-7064-472a-95d3-125141102332
+Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number of transaction:8
+Transactions ids:
+
+transaction_39794c64-65de-4910-8c67-a7a0213077df
+
+transaction_6cd5f2e4-4582-4f20-9a16-bcd50ed3d29a
+
+transaction_22764851-f3cd-4ac6-b895-809c34d94251
+
+transaction_f346c093-0052-41ab-9ee4-82de8a8f0e28
+
+transaction_f4affd88-889b-47de-8084-1c69ba22b75f
+
+transaction_1207477f-355b-4785-af8d-136ef30266b3
+
+transaction_488589ca-4dd6-4629-a468-ba44a5cd0d45
+
+transaction_879a4059-a8a0-4f3f-bb4c-69a666439379
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_d3ce093e-e1b6-4514-b402-4fd916c3be99
+To user:user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Given this Previous Hash: null
+Transaction Hash: da79ac1059d90da7f9e2362349ea1c07a77f4a774c35e2264b817fbecd6a695f
+
+Block Under Construction
+block_b3af3141-7064-472a-95d3-125141102332
+Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number of transaction:9
+Transactions ids:
+
+transaction_39794c64-65de-4910-8c67-a7a0213077df
+
+transaction_6cd5f2e4-4582-4f20-9a16-bcd50ed3d29a
+
+transaction_22764851-f3cd-4ac6-b895-809c34d94251
+
+transaction_f346c093-0052-41ab-9ee4-82de8a8f0e28
+
+transaction_f4affd88-889b-47de-8084-1c69ba22b75f
+
+transaction_1207477f-355b-4785-af8d-136ef30266b3
+
+transaction_488589ca-4dd6-4629-a468-ba44a5cd0d45
+
+transaction_879a4059-a8a0-4f3f-bb4c-69a666439379
+
+transaction_aa2c3e3c-1613-4658-bcdd-5bf737417b45
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_b1ea8c19-a995-49ef-9f4f-365f5ff0364b
+To user:user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Given this Previous Hash: null
+Transaction Hash: 4e4a063584dc2c0bbf0d51feed7a7c07e73cfa80683c25e2e286c80a1f3bd644
+
+Blockchain after a new block is added
+Number of blocks:5
+Signature of final block:VZ9lNV+O9Eo5j13Q96NShDWh5PFn/Zyw6DZh9T2pdSkOhblLfgd3FcPHZnNZq5cdiL2NqqTyL9PIk3XGte9SaSAoH81vrTyioae+Tg5JjQFDjc3eXToygwKF+AxMZUPGg6tprfDnIo2TBMj7dDml+4oHCs4HBYxcaEoryhipiPmHN+SVEMhGrETFTlAJmJmb3GilBfuG9/H4jnmCOUmUWUPTC6pKLwVbKsUWB0wieEywAzPJK92j/DOfIaCFtZPNmA+cryoSNTFQMufv7a9aTb8X1ij/9EBL9JM+th96seQqMMbRmxbmzsObUHlxeIF7v+5JMnRmFLgu/4q9QBtd9Q==
+Block:0
+Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Hash pointer to previous block:null
+Number Of transactions:10
+Block:1
+Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number Of transactions:10
+Block:2
+Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number Of transactions:10
+Block:3
+Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number Of transactions:10
+Block:4
+Hash value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Hash pointer to previous block:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number Of transactions:10
+
+Block Under Construction
+block_44d9383f-0caf-4500-9872-d2c9ea7002a5
+Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number of transaction:0
+Transactions ids:
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_37c3e941-5775-4220-909e-7c1b2a0f820a
+To user:user_e43d74f9-8367-4426-9477-e2a12e24046b
+Given this Previous Hash: null
+Transaction Hash: e0b08952fc7b887abf78d5ea015042452674c6dd959c6697a961792bf7c50aa1
+
+Block Under Construction
+block_44d9383f-0caf-4500-9872-d2c9ea7002a5
+Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number of transaction:1
+Transactions ids:
+
+transaction_e0cb1c57-6e15-47b1-8c14-e453bd800e00
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_1f3a21f8-de94-40b0-a475-e933b476b0a7
+To user:user_e43d74f9-8367-4426-9477-e2a12e24046b
+Given this Previous Hash: null
+Transaction Hash: c56c5012225b17580106f993588df12cff4c2b7a096f222015adf7f266e2d068
+
+Block Under Construction
+block_44d9383f-0caf-4500-9872-d2c9ea7002a5
+Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number of transaction:2
+Transactions ids:
+
+transaction_e0cb1c57-6e15-47b1-8c14-e453bd800e00
+
+transaction_cbd65f72-e430-4d26-af28-4cf0ea5e9c55
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_05172819-c717-425d-8243-968df32c459e
+To user:user_e43d74f9-8367-4426-9477-e2a12e24046b
+Given this Previous Hash: null
+Transaction Hash: 9a7365c3909a4ee2be4036a05bf19d6089a8b2a2d7ee072bf4bf49accc5f2e6
+
+Block Under Construction
+block_44d9383f-0caf-4500-9872-d2c9ea7002a5
+Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number of transaction:3
+Transactions ids:
+
+transaction_e0cb1c57-6e15-47b1-8c14-e453bd800e00
+
+transaction_cbd65f72-e430-4d26-af28-4cf0ea5e9c55
+
+transaction_3356a020-c53f-4f50-8ed7-deec0e7ae31e
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_d8ae14c4-31ee-4071-963e-f422a82fb73b
+To user:user_e43d74f9-8367-4426-9477-e2a12e24046b
+Given this Previous Hash: null
+Transaction Hash: 72317bfd17986d2ed214e1712c29ea84eed1f989db869c3df091835de7b758d6
+
+Block Under Construction
+block_44d9383f-0caf-4500-9872-d2c9ea7002a5
+Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number of transaction:4
+Transactions ids:
+
+transaction_e0cb1c57-6e15-47b1-8c14-e453bd800e00
+
+transaction_cbd65f72-e430-4d26-af28-4cf0ea5e9c55
+
+transaction_3356a020-c53f-4f50-8ed7-deec0e7ae31e
+
+transaction_2d4c4f40-a8c6-4b4a-9593-d3104c91b20a
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_3d658840-ecce-4c1f-8a04-3598cf34db6d
+To user:user_e43d74f9-8367-4426-9477-e2a12e24046b
+Given this Previous Hash: null
+Transaction Hash: 393ed05956232852da56c3a42fe1543c1d9c67d873fa6372a36e0f7f76242462
+
+Block Under Construction
+block_44d9383f-0caf-4500-9872-d2c9ea7002a5
+Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number of transaction:5
+Transactions ids:
+
+transaction_e0cb1c57-6e15-47b1-8c14-e453bd800e00
+
+transaction_cbd65f72-e430-4d26-af28-4cf0ea5e9c55
+
+transaction_3356a020-c53f-4f50-8ed7-deec0e7ae31e
+
+transaction_2d4c4f40-a8c6-4b4a-9593-d3104c91b20a
+
+transaction_23cad644-9951-4de6-9b81-bf1525540da3
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_c522a10a-d6e0-4935-a73b-4d35d8ca7e88
+To user:user_e43d74f9-8367-4426-9477-e2a12e24046b
+Given this Previous Hash: null
+Transaction Hash: 4dc9458a304b369a20511868808b4aded75a1fb2f511930fa683154d1f569658
+
+Block Under Construction
+block_44d9383f-0caf-4500-9872-d2c9ea7002a5
+Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number of transaction:6
+Transactions ids:
+
+transaction_e0cb1c57-6e15-47b1-8c14-e453bd800e00
+
+transaction_cbd65f72-e430-4d26-af28-4cf0ea5e9c55
+
+transaction_3356a020-c53f-4f50-8ed7-deec0e7ae31e
+
+transaction_2d4c4f40-a8c6-4b4a-9593-d3104c91b20a
+
+transaction_23cad644-9951-4de6-9b81-bf1525540da3
+
+transaction_5ac8a307-9730-4fa1-a384-a5648b2ae826
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_7df7a638-5877-4acb-b342-1194fe453575
+To user:user_e43d74f9-8367-4426-9477-e2a12e24046b
+Given this Previous Hash: null
+Transaction Hash: 24a79d334ad63478cddb66b6498fc95494af7119fa8e200296925d16a1a23e18
+
+Block Under Construction
+block_44d9383f-0caf-4500-9872-d2c9ea7002a5
+Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number of transaction:7
+Transactions ids:
+
+transaction_e0cb1c57-6e15-47b1-8c14-e453bd800e00
+
+transaction_cbd65f72-e430-4d26-af28-4cf0ea5e9c55
+
+transaction_3356a020-c53f-4f50-8ed7-deec0e7ae31e
+
+transaction_2d4c4f40-a8c6-4b4a-9593-d3104c91b20a
+
+transaction_23cad644-9951-4de6-9b81-bf1525540da3
+
+transaction_5ac8a307-9730-4fa1-a384-a5648b2ae826
+
+transaction_55ebad96-111e-435d-9c75-cb1561959b5f
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_ef0a59ac-9e67-440e-a09c-98ceccac65ee
+To user:user_e43d74f9-8367-4426-9477-e2a12e24046b
+Given this Previous Hash: null
+Transaction Hash: 2dafc17478dac71ac69d752536725021137388891717316546d0057d987bc3db
+
+Block Under Construction
+block_44d9383f-0caf-4500-9872-d2c9ea7002a5
+Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number of transaction:8
+Transactions ids:
+
+transaction_e0cb1c57-6e15-47b1-8c14-e453bd800e00
+
+transaction_cbd65f72-e430-4d26-af28-4cf0ea5e9c55
+
+transaction_3356a020-c53f-4f50-8ed7-deec0e7ae31e
+
+transaction_2d4c4f40-a8c6-4b4a-9593-d3104c91b20a
+
+transaction_23cad644-9951-4de6-9b81-bf1525540da3
+
+transaction_5ac8a307-9730-4fa1-a384-a5648b2ae826
+
+transaction_55ebad96-111e-435d-9c75-cb1561959b5f
+
+transaction_9a796467-dad0-46d1-a7ff-b393b43057ab
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_7b874c9c-9657-4071-912e-6834e7a612fc
+To user:user_e43d74f9-8367-4426-9477-e2a12e24046b
+Given this Previous Hash: null
+Transaction Hash: 725c0c8ec0662d77caf58a5e512c85e4371cda9da9c5f622b9e6383f59360eb8
+
+Block Under Construction
+block_44d9383f-0caf-4500-9872-d2c9ea7002a5
+Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number of transaction:9
+Transactions ids:
+
+transaction_e0cb1c57-6e15-47b1-8c14-e453bd800e00
+
+transaction_cbd65f72-e430-4d26-af28-4cf0ea5e9c55
+
+transaction_3356a020-c53f-4f50-8ed7-deec0e7ae31e
+
+transaction_2d4c4f40-a8c6-4b4a-9593-d3104c91b20a
+
+transaction_23cad644-9951-4de6-9b81-bf1525540da3
+
+transaction_5ac8a307-9730-4fa1-a384-a5648b2ae826
+
+transaction_55ebad96-111e-435d-9c75-cb1561959b5f
+
+transaction_9a796467-dad0-46d1-a7ff-b393b43057ab
+
+transaction_e3bc080c-602d-4f08-9b9c-a11af66d582b
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_4ca8c92a-dee1-4953-bc41-62141a562cb9
+To user:user_e43d74f9-8367-4426-9477-e2a12e24046b
+Given this Previous Hash: null
+Transaction Hash: b7e0e286083e00e3fb2467e9fa23befd2051d37166d31d5015eb927668ae8329
+
+Blockchain after a new block is added
+Number of blocks:6
+Signature of final block:gAynbqMXnhWoS2dSCD+zO5MeoYKLfhZuBPhLygD0fbHJCntGqkrTi4N/2je+BHHybxW0y+zNw66aJsptGj30O30FeeSkoSv9Wcl9d67coTd2QESlbEI43zm/ZFpxdGtLbyRS8n4DEjPvnvs/lW3U3NdOytkbhFtVCTrhIAhGf7V4uGTGWNkDF1UMicYh7jwd2zZRpD9Po70/j4s40w3Oa3auicwSD2F9nTLXyCCyThHvwaAVIcgD3pjsLmGS1cVwFBN5f6BY5bZ4AzZXqhRQajXJ7KYRHubUJD0Irg+grxXlq9990jBgt7yQ91KcTN7BzE92UgiihIKWRETOT5OfBQ==
+Block:0
+Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Hash pointer to previous block:null
+Number Of transactions:10
+Block:1
+Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number Of transactions:10
+Block:2
+Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number Of transactions:10
+Block:3
+Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number Of transactions:10
+Block:4
+Hash value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Hash pointer to previous block:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number Of transactions:10
+Block:5
+Hash value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Hash pointer to previous block:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number Of transactions:10
+
+Block Under Construction
+block_252c191e-9d2f-4c32-bab1-8370ab0b19bf
+Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number of transaction:0
+Transactions ids:
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_30c9b62c-1fcc-47fa-a041-8b680e6faba0
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: null
+Transaction Hash: 558f448d5fdbf5f60ccade92f9ef961152df9a6e7c5fed74127317c287d1c42e
+
+Block Under Construction
+block_252c191e-9d2f-4c32-bab1-8370ab0b19bf
+Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number of transaction:1
+Transactions ids:
+
+transaction_73e73c0c-ccb4-4475-b6b9-d33d5c386088
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_6542db8d-4fe4-489f-83b2-cb5f42a28623
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: null
+Transaction Hash: 604368e4bcd048c3283a63319bd5be447ab2f7cbad60a473b508479b913255ab
+
+Block Under Construction
+block_252c191e-9d2f-4c32-bab1-8370ab0b19bf
+Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number of transaction:2
+Transactions ids:
+
+transaction_73e73c0c-ccb4-4475-b6b9-d33d5c386088
+
+transaction_ec75add8-920a-4a80-96bf-9d06ab1371f9
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_418e4652-6f06-4c89-aa33-dd2767cd6ffa
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: null
+Transaction Hash: eaa27ab71d34beda793bbc63743a7bcc52644e228a6468ce94bdc8cd5a143cb3
+
+Block Under Construction
+block_252c191e-9d2f-4c32-bab1-8370ab0b19bf
+Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number of transaction:3
+Transactions ids:
+
+transaction_73e73c0c-ccb4-4475-b6b9-d33d5c386088
+
+transaction_ec75add8-920a-4a80-96bf-9d06ab1371f9
+
+transaction_ff474fbf-845c-434b-8a9d-3857484aad74
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_2bfb7113-8b69-43c2-9f5f-69d6a78caa08
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: null
+Transaction Hash: e7d91073f71a89c977861981c58ad58e255a58e17bef787e46b8137cead211da
+
+Block Under Construction
+block_252c191e-9d2f-4c32-bab1-8370ab0b19bf
+Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number of transaction:4
+Transactions ids:
+
+transaction_73e73c0c-ccb4-4475-b6b9-d33d5c386088
+
+transaction_ec75add8-920a-4a80-96bf-9d06ab1371f9
+
+transaction_ff474fbf-845c-434b-8a9d-3857484aad74
+
+transaction_2916c4bc-a8bb-4496-a1f2-b14a9c46360a
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_64c76796-9769-432c-bf8b-6278dac5faad
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: null
+Transaction Hash: 341c64193ce689f9d2909de41405c7aeb2ec017dfe2adf19e2d2ec2ab4500551
+
+Block Under Construction
+block_252c191e-9d2f-4c32-bab1-8370ab0b19bf
+Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number of transaction:5
+Transactions ids:
+
+transaction_73e73c0c-ccb4-4475-b6b9-d33d5c386088
+
+transaction_ec75add8-920a-4a80-96bf-9d06ab1371f9
+
+transaction_ff474fbf-845c-434b-8a9d-3857484aad74
+
+transaction_2916c4bc-a8bb-4496-a1f2-b14a9c46360a
+
+transaction_6708be5e-596b-4f6a-b081-80704118be44
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_71f77962-2c92-49e0-a030-2f53a6dda562
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: null
+Transaction Hash: e75caaea74c839988d3acc6d081297d4286fc12cea847227768b87b3b90888c
+
+Block Under Construction
+block_252c191e-9d2f-4c32-bab1-8370ab0b19bf
+Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number of transaction:6
+Transactions ids:
+
+transaction_73e73c0c-ccb4-4475-b6b9-d33d5c386088
+
+transaction_ec75add8-920a-4a80-96bf-9d06ab1371f9
+
+transaction_ff474fbf-845c-434b-8a9d-3857484aad74
+
+transaction_2916c4bc-a8bb-4496-a1f2-b14a9c46360a
+
+transaction_6708be5e-596b-4f6a-b081-80704118be44
+
+transaction_95d8f74d-3dc4-46f7-891e-91c63f566b51
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_cd1d2eea-883b-4d35-ba67-56f5580e9e75
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: null
+Transaction Hash: 715dd83dfcb6b45a26b6fd217c815343b5ab53bbb5cdb71402776cb5693c37d5
+
+Block Under Construction
+block_252c191e-9d2f-4c32-bab1-8370ab0b19bf
+Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number of transaction:7
+Transactions ids:
+
+transaction_73e73c0c-ccb4-4475-b6b9-d33d5c386088
+
+transaction_ec75add8-920a-4a80-96bf-9d06ab1371f9
+
+transaction_ff474fbf-845c-434b-8a9d-3857484aad74
+
+transaction_2916c4bc-a8bb-4496-a1f2-b14a9c46360a
+
+transaction_6708be5e-596b-4f6a-b081-80704118be44
+
+transaction_95d8f74d-3dc4-46f7-891e-91c63f566b51
+
+transaction_417e48bf-b40a-4a33-ab0f-b139e6321d4d
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_d821f8f8-3d4c-47a1-bf1c-3264c8233cbc
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: null
+Transaction Hash: e19a248224ef5a6d9766733121a1519f71f6613309429627849c3ede66ce4d1d
+
+Block Under Construction
+block_252c191e-9d2f-4c32-bab1-8370ab0b19bf
+Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number of transaction:8
+Transactions ids:
+
+transaction_73e73c0c-ccb4-4475-b6b9-d33d5c386088
+
+transaction_ec75add8-920a-4a80-96bf-9d06ab1371f9
+
+transaction_ff474fbf-845c-434b-8a9d-3857484aad74
+
+transaction_2916c4bc-a8bb-4496-a1f2-b14a9c46360a
+
+transaction_6708be5e-596b-4f6a-b081-80704118be44
+
+transaction_95d8f74d-3dc4-46f7-891e-91c63f566b51
+
+transaction_417e48bf-b40a-4a33-ab0f-b139e6321d4d
+
+transaction_dd263f64-76ab-45ae-855e-3756a1f4d52d
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_f319e30b-6875-4849-8033-7a925000f01c
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: null
+Transaction Hash: ef1b2702719b9184ad0bc8405b0d658485360a64bc87f449fe983eed9b38c8f6
+
+Block Under Construction
+block_252c191e-9d2f-4c32-bab1-8370ab0b19bf
+Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number of transaction:9
+Transactions ids:
+
+transaction_73e73c0c-ccb4-4475-b6b9-d33d5c386088
+
+transaction_ec75add8-920a-4a80-96bf-9d06ab1371f9
+
+transaction_ff474fbf-845c-434b-8a9d-3857484aad74
+
+transaction_2916c4bc-a8bb-4496-a1f2-b14a9c46360a
+
+transaction_6708be5e-596b-4f6a-b081-80704118be44
+
+transaction_95d8f74d-3dc4-46f7-891e-91c63f566b51
+
+transaction_417e48bf-b40a-4a33-ab0f-b139e6321d4d
+
+transaction_dd263f64-76ab-45ae-855e-3756a1f4d52d
+
+transaction_b3b2ce97-fd56-43be-8964-ad76040e7dba
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_e03e836f-2ee4-4f67-a679-b42106d8fa08
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: null
+Transaction Hash: 53cf7c8fe76f8ae53d3e30fefc489d089de350cfbf547f9bd342d6d470bf2a77
+
+Blockchain after a new block is added
+Number of blocks:7
+Signature of final block:dPkQRpqz7Q8IzCWJ+WaV5mkq2beIzrq7T0PbmI1JAREjE/objHuBhKkRdTme/C5t5FxoX514UwrITPxpTdz7e1CBzLW1dP3+EWa/oE1uzbixqCVeaVnpJHGIGT5Bw2tTCbAM/4g1OItBhfMCBCbsJZXaamJYCRXtyrHcQxxtSBkyb6KH5f8NhxMlWxtEz+M8f0IP5VkoxqrhJfbqaZg6rGBhJcMHGeY7Rt6yI9QHYkpo2s5rONJjdoBqQoqyO7FVAPN5SxpKg/guMuvxlvpESkSKv4eWTvxqt7UX4Pi1VHLUqScKS0RECqfxxJP203iqdkKxAH0AQ4Cb3ipTPEjf1w==
+Block:0
+Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Hash pointer to previous block:null
+Number Of transactions:10
+Block:1
+Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number Of transactions:10
+Block:2
+Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number Of transactions:10
+Block:3
+Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number Of transactions:10
+Block:4
+Hash value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Hash pointer to previous block:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number Of transactions:10
+Block:5
+Hash value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Hash pointer to previous block:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number Of transactions:10
+Block:6
+Hash value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Hash pointer to previous block:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number Of transactions:10
+
+Block Under Construction
+block_81f4c854-45da-404a-b0af-ce3f8915ef55
+Hash Value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number of transaction:0
+Transactions ids:
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_e004c6dd-0522-4df6-b36f-3c8ba1d911fc
+To user:user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Given this Previous Hash: null
+Transaction Hash: de6f685c84547af47866cea27fd935b7bdf7606c1259caca6d55aa5fafc4fefe
+
+Block Under Construction
+block_81f4c854-45da-404a-b0af-ce3f8915ef55
+Hash Value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number of transaction:1
+Transactions ids:
+
+transaction_05ffde92-b593-427a-b03c-79409a65bc3e
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_28c002b3-8312-459a-aa8e-431eccbc8848
+To user:user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Given this Previous Hash: null
+Transaction Hash: 720f447f13f4d33d494d6749c15c691886ff445da446492606ea77ab8b65c3eb
+
+Block Under Construction
+block_81f4c854-45da-404a-b0af-ce3f8915ef55
+Hash Value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number of transaction:2
+Transactions ids:
+
+transaction_05ffde92-b593-427a-b03c-79409a65bc3e
+
+transaction_8144e4ab-d8ae-4565-a7fb-04beca2ff1d3
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_e05849b3-595a-4610-a0df-49a0466a2d57
+To user:user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Given this Previous Hash: null
+Transaction Hash: b1d0b0b7a26988dab2b83bbc9914cfc8c8c3d0087e4643cca7c72d07d956cc9
+
+Block Under Construction
+block_81f4c854-45da-404a-b0af-ce3f8915ef55
+Hash Value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number of transaction:3
+Transactions ids:
+
+transaction_05ffde92-b593-427a-b03c-79409a65bc3e
+
+transaction_8144e4ab-d8ae-4565-a7fb-04beca2ff1d3
+
+transaction_f56db096-5f70-425e-87ca-dea6c7e0cb8a
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_a98916ab-fd10-4cbb-93ec-5385bc0fb206
+To user:user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Given this Previous Hash: null
+Transaction Hash: 840511c1f9056b0cacaad4bbf746503a67629260e426aad4095048437640cd69
+
+Block Under Construction
+block_81f4c854-45da-404a-b0af-ce3f8915ef55
+Hash Value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number of transaction:4
+Transactions ids:
+
+transaction_05ffde92-b593-427a-b03c-79409a65bc3e
+
+transaction_8144e4ab-d8ae-4565-a7fb-04beca2ff1d3
+
+transaction_f56db096-5f70-425e-87ca-dea6c7e0cb8a
+
+transaction_2df3a9bc-9ecd-4237-be4d-1ad1b6398cc4
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_49194c8d-be4d-4234-b80e-1265081c2a05
+To user:user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Given this Previous Hash: null
+Transaction Hash: 1e2b9d2516489f1835d751aee448d3d13baaf91208746ccd9bda5980d0046d8d
+
+Block Under Construction
+block_81f4c854-45da-404a-b0af-ce3f8915ef55
+Hash Value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number of transaction:5
+Transactions ids:
+
+transaction_05ffde92-b593-427a-b03c-79409a65bc3e
+
+transaction_8144e4ab-d8ae-4565-a7fb-04beca2ff1d3
+
+transaction_f56db096-5f70-425e-87ca-dea6c7e0cb8a
+
+transaction_2df3a9bc-9ecd-4237-be4d-1ad1b6398cc4
+
+transaction_c5df8550-34c3-4e42-a5c3-b8abf8d24029
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_e7692711-d26e-48b0-9ab7-98a915149281
+To user:user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Given this Previous Hash: null
+Transaction Hash: ae99bd3baa75cf5c3a2b8dc401bf0724a407b58dba646930a1b677546f9c6341
+
+Block Under Construction
+block_81f4c854-45da-404a-b0af-ce3f8915ef55
+Hash Value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number of transaction:6
+Transactions ids:
+
+transaction_05ffde92-b593-427a-b03c-79409a65bc3e
+
+transaction_8144e4ab-d8ae-4565-a7fb-04beca2ff1d3
+
+transaction_f56db096-5f70-425e-87ca-dea6c7e0cb8a
+
+transaction_2df3a9bc-9ecd-4237-be4d-1ad1b6398cc4
+
+transaction_c5df8550-34c3-4e42-a5c3-b8abf8d24029
+
+transaction_8f87c7c3-cbe8-42ca-8789-685cd0bd307d
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_8c1f1dbf-fc0d-44a9-828d-6561e59b89f7
+To user:user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Given this Previous Hash: null
+Transaction Hash: 48c19d07e418ece481ed4692b1e7582721eea44d75c70c4937c6732f8bac7a51
+
+Block Under Construction
+block_81f4c854-45da-404a-b0af-ce3f8915ef55
+Hash Value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number of transaction:7
+Transactions ids:
+
+transaction_05ffde92-b593-427a-b03c-79409a65bc3e
+
+transaction_8144e4ab-d8ae-4565-a7fb-04beca2ff1d3
+
+transaction_f56db096-5f70-425e-87ca-dea6c7e0cb8a
+
+transaction_2df3a9bc-9ecd-4237-be4d-1ad1b6398cc4
+
+transaction_c5df8550-34c3-4e42-a5c3-b8abf8d24029
+
+transaction_8f87c7c3-cbe8-42ca-8789-685cd0bd307d
+
+transaction_e8376226-f943-4b84-bfbf-96441083ff11
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_ef0bc989-9051-4474-99fb-7410461cfc24
+To user:user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Given this Previous Hash: null
+Transaction Hash: e4c5e981ea645922d213ef27ba101e73e11632f43f31039b3a6f7c677b6f9f66
+
+Block Under Construction
+block_81f4c854-45da-404a-b0af-ce3f8915ef55
+Hash Value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number of transaction:8
+Transactions ids:
+
+transaction_05ffde92-b593-427a-b03c-79409a65bc3e
+
+transaction_8144e4ab-d8ae-4565-a7fb-04beca2ff1d3
+
+transaction_f56db096-5f70-425e-87ca-dea6c7e0cb8a
+
+transaction_2df3a9bc-9ecd-4237-be4d-1ad1b6398cc4
+
+transaction_c5df8550-34c3-4e42-a5c3-b8abf8d24029
+
+transaction_8f87c7c3-cbe8-42ca-8789-685cd0bd307d
+
+transaction_e8376226-f943-4b84-bfbf-96441083ff11
+
+transaction_881807e4-0ea2-46ae-829e-fbdaf64e48d2
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_bef031d6-123c-478b-8098-1776a7c4506f
+To user:user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Given this Previous Hash: null
+Transaction Hash: 37c0b723020f5d4b31578ce83c6e18974b1908d5d368a39da3cc166877ad894d
+
+Block Under Construction
+block_81f4c854-45da-404a-b0af-ce3f8915ef55
+Hash Value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number of transaction:9
+Transactions ids:
+
+transaction_05ffde92-b593-427a-b03c-79409a65bc3e
+
+transaction_8144e4ab-d8ae-4565-a7fb-04beca2ff1d3
+
+transaction_f56db096-5f70-425e-87ca-dea6c7e0cb8a
+
+transaction_2df3a9bc-9ecd-4237-be4d-1ad1b6398cc4
+
+transaction_c5df8550-34c3-4e42-a5c3-b8abf8d24029
+
+transaction_8f87c7c3-cbe8-42ca-8789-685cd0bd307d
+
+transaction_e8376226-f943-4b84-bfbf-96441083ff11
+
+transaction_881807e4-0ea2-46ae-829e-fbdaf64e48d2
+
+transaction_419e4956-7985-4c61-bf33-f31655b0f44c
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_2a82ff0e-7d98-4b21-af6f-16fe790ac4bc
+To user:user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Given this Previous Hash: null
+Transaction Hash: 4c4998fb44871bc0f51e78a6beaac03ded548ce2c969c9114eada55ce7d3cbc8
+
+Blockchain after a new block is added
+Number of blocks:8
+Signature of final block:D/lJLJ+d2XU8jesJurmTKW0Chj7ujeizrhX2rwvUUcdtvDZ08wwER89wA2jZc/THlWGo3wk2b9NncN2uIX2AgKfV8ze+68s8mFl6O88Cw7agkS4/ioVEvQKpVNdEIJ6g0s9lMEl0/v9ycVpurqrwsgEUAfs+wcUvnbj9jfTXW3PbbrbUOLVGQKaL0enMsuU6W+IV5vVLYSbnHvTT9fdIko/OVwD0jw0zJZtgolTJcgEiWmVXUR3uHGXICWdLBRHCu8SemFBMiwLr8ARdDSmdfC0Q5DsK2hr/Y0D/GsNEIreQkzTech+4YfN8Qxzn/7i0F4FCXZ7wyiv5nyCsglZcPw==
+Block:0
+Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Hash pointer to previous block:null
+Number Of transactions:10
+Block:1
+Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number Of transactions:10
+Block:2
+Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number Of transactions:10
+Block:3
+Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number Of transactions:10
+Block:4
+Hash value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Hash pointer to previous block:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number Of transactions:10
+Block:5
+Hash value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Hash pointer to previous block:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number Of transactions:10
+Block:6
+Hash value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Hash pointer to previous block:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number Of transactions:10
+Block:7
+Hash value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Hash pointer to previous block:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number Of transactions:10
+
+Block Under Construction
+block_c21b3b6a-6f18-4b82-bed4-7a4c10749301
+Hash Value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number of transaction:0
+Transactions ids:
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_4f263044-9814-464a-9404-b82acc40b404
+To user:user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Given this Previous Hash: null
+Transaction Hash: ab5b91a76bfd88a82419f41f39a72d4b435add7a688221c3cf3ec34e240e6c1d
+
+Block Under Construction
+block_c21b3b6a-6f18-4b82-bed4-7a4c10749301
+Hash Value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number of transaction:1
+Transactions ids:
+
+transaction_e6571ad3-39dd-4d34-8b39-d00a9b137c2a
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_223e66ec-1829-422e-b898-5996acefa8a5
+To user:user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Given this Previous Hash: null
+Transaction Hash: 5071c48f392bea0253db3238388b25fa4c398d6ac202dac5140a0a4c0842ced8
+
+Block Under Construction
+block_c21b3b6a-6f18-4b82-bed4-7a4c10749301
+Hash Value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number of transaction:2
+Transactions ids:
+
+transaction_e6571ad3-39dd-4d34-8b39-d00a9b137c2a
+
+transaction_e906c109-2c87-4b21-9064-54c2b81ad478
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_4e7031a6-07fe-4b35-8d56-921eb8cfcd21
+To user:user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Given this Previous Hash: null
+Transaction Hash: 8d7539d6c9f4f92b97626e96368bebda494e3c0a258f7f5f7e2b26341d51b54b
+
+Block Under Construction
+block_c21b3b6a-6f18-4b82-bed4-7a4c10749301
+Hash Value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number of transaction:3
+Transactions ids:
+
+transaction_e6571ad3-39dd-4d34-8b39-d00a9b137c2a
+
+transaction_e906c109-2c87-4b21-9064-54c2b81ad478
+
+transaction_1ff043df-e795-4bb2-990a-85e624be5199
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_6998d5a5-26bc-4f01-a278-c2df4a2d85d2
+To user:user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Given this Previous Hash: null
+Transaction Hash: 295a7217df30a2f66b23d917da536371c6700ac1358a4a3663d6242a75349240
+
+Block Under Construction
+block_c21b3b6a-6f18-4b82-bed4-7a4c10749301
+Hash Value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number of transaction:4
+Transactions ids:
+
+transaction_e6571ad3-39dd-4d34-8b39-d00a9b137c2a
+
+transaction_e906c109-2c87-4b21-9064-54c2b81ad478
+
+transaction_1ff043df-e795-4bb2-990a-85e624be5199
+
+transaction_36c693ce-5aa4-4b92-ab49-6eb04ea2ddb6
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_5e5a5bff-e96b-49dd-a575-05b251b144df
+To user:user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Given this Previous Hash: null
+Transaction Hash: ffa001bcea5177fa740af35a73e6179545f5564c3c8ac2414c00652465e4f2b
+
+Block Under Construction
+block_c21b3b6a-6f18-4b82-bed4-7a4c10749301
+Hash Value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number of transaction:5
+Transactions ids:
+
+transaction_e6571ad3-39dd-4d34-8b39-d00a9b137c2a
+
+transaction_e906c109-2c87-4b21-9064-54c2b81ad478
+
+transaction_1ff043df-e795-4bb2-990a-85e624be5199
+
+transaction_36c693ce-5aa4-4b92-ab49-6eb04ea2ddb6
+
+transaction_7e21936a-18b4-43c4-a02b-70f00d1d2c0d
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_cda46aca-8efb-4852-988f-e40bbf80bb0a
+To user:user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Given this Previous Hash: null
+Transaction Hash: 858547e7486688f7bfc6372bb8af3b54bbc0165138ef09b3196e26eb198e079f
+
+Block Under Construction
+block_c21b3b6a-6f18-4b82-bed4-7a4c10749301
+Hash Value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number of transaction:6
+Transactions ids:
+
+transaction_e6571ad3-39dd-4d34-8b39-d00a9b137c2a
+
+transaction_e906c109-2c87-4b21-9064-54c2b81ad478
+
+transaction_1ff043df-e795-4bb2-990a-85e624be5199
+
+transaction_36c693ce-5aa4-4b92-ab49-6eb04ea2ddb6
+
+transaction_7e21936a-18b4-43c4-a02b-70f00d1d2c0d
+
+transaction_d8416f25-2ee2-47f7-a542-43a32413d618
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_c3390705-f4a6-418e-ae3f-9a282ed4f640
+To user:user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Given this Previous Hash: null
+Transaction Hash: 83dfe3e8f8c305a5af88966bd9c33bf893b9d176f3246b1dded9e0ec06d9cfb4
+
+Block Under Construction
+block_c21b3b6a-6f18-4b82-bed4-7a4c10749301
+Hash Value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number of transaction:7
+Transactions ids:
+
+transaction_e6571ad3-39dd-4d34-8b39-d00a9b137c2a
+
+transaction_e906c109-2c87-4b21-9064-54c2b81ad478
+
+transaction_1ff043df-e795-4bb2-990a-85e624be5199
+
+transaction_36c693ce-5aa4-4b92-ab49-6eb04ea2ddb6
+
+transaction_7e21936a-18b4-43c4-a02b-70f00d1d2c0d
+
+transaction_d8416f25-2ee2-47f7-a542-43a32413d618
+
+transaction_582a0bce-85d2-41b3-9be9-756b850e58d8
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_361c8065-fd50-465d-9f68-9091e2fe2095
+To user:user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Given this Previous Hash: null
+Transaction Hash: dd5873e8d95c4460879ed863d2fe8e7951827944a44d5a684c5e61f0d3d9400c
+
+Block Under Construction
+block_c21b3b6a-6f18-4b82-bed4-7a4c10749301
+Hash Value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number of transaction:8
+Transactions ids:
+
+transaction_e6571ad3-39dd-4d34-8b39-d00a9b137c2a
+
+transaction_e906c109-2c87-4b21-9064-54c2b81ad478
+
+transaction_1ff043df-e795-4bb2-990a-85e624be5199
+
+transaction_36c693ce-5aa4-4b92-ab49-6eb04ea2ddb6
+
+transaction_7e21936a-18b4-43c4-a02b-70f00d1d2c0d
+
+transaction_d8416f25-2ee2-47f7-a542-43a32413d618
+
+transaction_582a0bce-85d2-41b3-9be9-756b850e58d8
+
+transaction_4ff9691a-c82f-40ce-8857-6e12cf340bdc
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_ec173f56-4bfd-46e0-9861-efc4702e57df
+To user:user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Given this Previous Hash: null
+Transaction Hash: 9d39814ba2c39d78b56555c678a6fa3c14ead2f8fcc9c4f3b14ff4ab3c8db1ac
+
+Block Under Construction
+block_c21b3b6a-6f18-4b82-bed4-7a4c10749301
+Hash Value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number of transaction:9
+Transactions ids:
+
+transaction_e6571ad3-39dd-4d34-8b39-d00a9b137c2a
+
+transaction_e906c109-2c87-4b21-9064-54c2b81ad478
+
+transaction_1ff043df-e795-4bb2-990a-85e624be5199
+
+transaction_36c693ce-5aa4-4b92-ab49-6eb04ea2ddb6
+
+transaction_7e21936a-18b4-43c4-a02b-70f00d1d2c0d
+
+transaction_d8416f25-2ee2-47f7-a542-43a32413d618
+
+transaction_582a0bce-85d2-41b3-9be9-756b850e58d8
+
+transaction_4ff9691a-c82f-40ce-8857-6e12cf340bdc
+
+transaction_12c8a238-9afa-4041-9bd9-c7920c98c314
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_5a392a40-8cec-4e86-950b-c7a66e35bb78
+To user:user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Given this Previous Hash: null
+Transaction Hash: f2cd7e219459739a7da31d42706c0ad305b58fe6ffd596e3f219250d817ccbe2
+
+Blockchain after a new block is added
+Number of blocks:9
+Signature of final block:atixFIHWuFevvI7G33lzSilmKyQjDvVBE3Irm4gyXWGK2AI/8uknYUBWuxPDqtbBca7e35O1p7nUek6MksWT1fCiTes68H1BDps6rSrTAFI4vqGFyk3xQzV8SW4OqriuJQJz25/vgPz7PM/wKsZn0OLZ33XIXvrwBxBP+8jPSke0Yma9CDQCjeO6ERp9QFKKhKdU3IZ8AS9lPIdFyeC1/1DVdjsCEAfY5RJpe4GViBpsHCL2pD5gAedX+zAySGaKQciVeZ4AJMGs2ocz0IkuEjstDk9vUVMxc4E7wLstrarZIZiMlzOsERJvRR10MzNl29AljAxhi0upEBFkf0SV2g==
+Block:0
+Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Hash pointer to previous block:null
+Number Of transactions:10
+Block:1
+Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number Of transactions:10
+Block:2
+Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number Of transactions:10
+Block:3
+Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number Of transactions:10
+Block:4
+Hash value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Hash pointer to previous block:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number Of transactions:10
+Block:5
+Hash value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Hash pointer to previous block:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number Of transactions:10
+Block:6
+Hash value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Hash pointer to previous block:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number Of transactions:10
+Block:7
+Hash value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Hash pointer to previous block:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number Of transactions:10
+Block:8
+Hash value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Hash pointer to previous block:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number Of transactions:10
+
+Block Under Construction
+block_be3c5086-3876-4c65-97c3-e22bf79fb51f
+Hash Value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number of transaction:0
+Transactions ids:
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_92e80c8d-53c2-4c22-a05d-182ce4ec9c81
+To user:user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Given this Previous Hash: null
+Transaction Hash: 4713370b7fdfef5f83db90a0bea9d6acf5fd4fdfb4b55ec1ebfe5f9ffa9475ca
+
+Block Under Construction
+block_be3c5086-3876-4c65-97c3-e22bf79fb51f
+Hash Value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number of transaction:1
+Transactions ids:
+
+transaction_f4aeae0c-0b20-4cd9-956e-44a8107aa49b
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_654d58c5-77e8-42cd-a812-1dd26707c160
+To user:user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Given this Previous Hash: null
+Transaction Hash: 4cdd2a0365181cbde9efd7dfa3373dd5c2fe8af49f8b34bf47370979263f468d
+
+Block Under Construction
+block_be3c5086-3876-4c65-97c3-e22bf79fb51f
+Hash Value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number of transaction:2
+Transactions ids:
+
+transaction_f4aeae0c-0b20-4cd9-956e-44a8107aa49b
+
+transaction_85958f2e-6e8f-4dfc-b7c5-6bb1f271a341
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_fb000798-3e1c-4763-86cd-4a8ccb98261b
+To user:user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Given this Previous Hash: null
+Transaction Hash: f54f79eede2bd2b8c0ce5c6515542aec1794331ad471618f337df59a6ffe98d7
+
+Block Under Construction
+block_be3c5086-3876-4c65-97c3-e22bf79fb51f
+Hash Value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number of transaction:3
+Transactions ids:
+
+transaction_f4aeae0c-0b20-4cd9-956e-44a8107aa49b
+
+transaction_85958f2e-6e8f-4dfc-b7c5-6bb1f271a341
+
+transaction_f7978196-17f8-45de-9859-c2f65882f7af
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_267fb526-50cb-43fd-9042-cebeae4d9741
+To user:user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Given this Previous Hash: null
+Transaction Hash: fc0f8997370519ab9f7e1c4b96e0f89d31222f0fda96374fa30afce95b0e1f0b
+
+Block Under Construction
+block_be3c5086-3876-4c65-97c3-e22bf79fb51f
+Hash Value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number of transaction:4
+Transactions ids:
+
+transaction_f4aeae0c-0b20-4cd9-956e-44a8107aa49b
+
+transaction_85958f2e-6e8f-4dfc-b7c5-6bb1f271a341
+
+transaction_f7978196-17f8-45de-9859-c2f65882f7af
+
+transaction_87a2a0f2-d619-4f1b-9063-8de8bc491507
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_df940378-85da-4c8d-9220-b3bc324b0fe6
+To user:user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Given this Previous Hash: null
+Transaction Hash: 640f3b1bb6ab7859d35603c24da7d219e075ce044edf2cf2d500675a6bf48b0f
+
+Block Under Construction
+block_be3c5086-3876-4c65-97c3-e22bf79fb51f
+Hash Value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number of transaction:5
+Transactions ids:
+
+transaction_f4aeae0c-0b20-4cd9-956e-44a8107aa49b
+
+transaction_85958f2e-6e8f-4dfc-b7c5-6bb1f271a341
+
+transaction_f7978196-17f8-45de-9859-c2f65882f7af
+
+transaction_87a2a0f2-d619-4f1b-9063-8de8bc491507
+
+transaction_cd02f938-730e-453e-b614-1d066d6acbbd
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_6338bcfc-0711-4b6e-9db0-c234b344f695
+To user:user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Given this Previous Hash: null
+Transaction Hash: 3f83f31d7dac5190090252f5b7b0e35d57b90307428a81a3cba425151b68ac81
+
+Block Under Construction
+block_be3c5086-3876-4c65-97c3-e22bf79fb51f
+Hash Value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number of transaction:6
+Transactions ids:
+
+transaction_f4aeae0c-0b20-4cd9-956e-44a8107aa49b
+
+transaction_85958f2e-6e8f-4dfc-b7c5-6bb1f271a341
+
+transaction_f7978196-17f8-45de-9859-c2f65882f7af
+
+transaction_87a2a0f2-d619-4f1b-9063-8de8bc491507
+
+transaction_cd02f938-730e-453e-b614-1d066d6acbbd
+
+transaction_7f8d18f4-59fe-4280-870f-20db93e825d4
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_d44dfc6e-9892-4242-9b09-8b740b845733
+To user:user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Given this Previous Hash: null
+Transaction Hash: 8a9e8a9f2547148387b07d37d3dcd95093522d1ccb9f2cd7f4efe7471cb876b5
+
+Block Under Construction
+block_be3c5086-3876-4c65-97c3-e22bf79fb51f
+Hash Value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number of transaction:7
+Transactions ids:
+
+transaction_f4aeae0c-0b20-4cd9-956e-44a8107aa49b
+
+transaction_85958f2e-6e8f-4dfc-b7c5-6bb1f271a341
+
+transaction_f7978196-17f8-45de-9859-c2f65882f7af
+
+transaction_87a2a0f2-d619-4f1b-9063-8de8bc491507
+
+transaction_cd02f938-730e-453e-b614-1d066d6acbbd
+
+transaction_7f8d18f4-59fe-4280-870f-20db93e825d4
+
+transaction_4304aa04-da72-4b85-8fec-b3b2b00847fe
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_729f15a6-96bf-4f92-b26c-e0c6146eeb94
+To user:user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Given this Previous Hash: null
+Transaction Hash: 44a2fda82e6b1f162c2be95550c28417cf8a28ffc570da4c7ac6a902e5125cc9
+
+Block Under Construction
+block_be3c5086-3876-4c65-97c3-e22bf79fb51f
+Hash Value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number of transaction:8
+Transactions ids:
+
+transaction_f4aeae0c-0b20-4cd9-956e-44a8107aa49b
+
+transaction_85958f2e-6e8f-4dfc-b7c5-6bb1f271a341
+
+transaction_f7978196-17f8-45de-9859-c2f65882f7af
+
+transaction_87a2a0f2-d619-4f1b-9063-8de8bc491507
+
+transaction_cd02f938-730e-453e-b614-1d066d6acbbd
+
+transaction_7f8d18f4-59fe-4280-870f-20db93e825d4
+
+transaction_4304aa04-da72-4b85-8fec-b3b2b00847fe
+
+transaction_3827042c-b9cf-43a5-a6b5-ef429f318b77
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_130b051b-8b2f-4e04-8ac5-bb016ef90d2a
+To user:user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Given this Previous Hash: null
+Transaction Hash: 32a189de4edb5aa480a209ed69beb87a576139787ad0a21e45d9e65d6680103b
+
+Block Under Construction
+block_be3c5086-3876-4c65-97c3-e22bf79fb51f
+Hash Value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number of transaction:9
+Transactions ids:
+
+transaction_f4aeae0c-0b20-4cd9-956e-44a8107aa49b
+
+transaction_85958f2e-6e8f-4dfc-b7c5-6bb1f271a341
+
+transaction_f7978196-17f8-45de-9859-c2f65882f7af
+
+transaction_87a2a0f2-d619-4f1b-9063-8de8bc491507
+
+transaction_cd02f938-730e-453e-b614-1d066d6acbbd
+
+transaction_7f8d18f4-59fe-4280-870f-20db93e825d4
+
+transaction_4304aa04-da72-4b85-8fec-b3b2b00847fe
+
+transaction_3827042c-b9cf-43a5-a6b5-ef429f318b77
+
+transaction_8fa51a80-c3c5-40ea-9517-d13217514346
+
+
+User: Scrooge_15af138c-29af-438d-8be9-ba1599dc8351 
+is attempting to send Coin_414a976e-9641-4a74-aa4e-ca3797afa9c9
+To user:user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Given this Previous Hash: null
+Transaction Hash: dd1459fed04ecd6f5b4b7be9d5813ccdf849e8ff14a05e25208d17ba52ef5393
+
+Blockchain after a new block is added
+Number of blocks:10
+Signature of final block:GKdJQh/XtAXh2MIajQRV1KMbxj/3C97kzKJshb5idSm4/qXxxTH5tcwLa7SnFU5qfPWLy7Pq4Vy+0BJpahEy021SvxrsnPhXpNxhrIUNMdKMCBKZsMcgT335dFBUdwl+/q4KRFUiZHQyi12xCL5jEQANCZcJv4Ln8rKqGheGFIbpnkHGXCk/7eX2fLsTAPUl39fyZLUD4oXGL9hyXBM9w+knQvXbVgegg1DWIyE+GacHl2mND8CmCu93B4vMagt8BUbQEdhG2eKzXDO/PI8IVtSU2qcsqAOowX0kAQGBWgfp9toQjplVrUxiYThIFcbvsh87SHFhL5aDyJ5tDyn4kA==
+Block:0
+Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Hash pointer to previous block:null
+Number Of transactions:10
+Block:1
+Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number Of transactions:10
+Block:2
+Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number Of transactions:10
+Block:3
+Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number Of transactions:10
+Block:4
+Hash value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Hash pointer to previous block:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number Of transactions:10
+Block:5
+Hash value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Hash pointer to previous block:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number Of transactions:10
+Block:6
+Hash value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Hash pointer to previous block:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number Of transactions:10
+Block:7
+Hash value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Hash pointer to previous block:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number Of transactions:10
+Block:8
+Hash value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Hash pointer to previous block:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number Of transactions:10
+Block:9
+Hash value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Hash pointer to previous block:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number Of transactions:10
+
+Block Under Construction
+block_48806895-6cc7-4e82-8eb5-e70a9ca28dc4
+Hash Value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
 Number of transaction:0
 Transactions ids:
 
 
 Finished creating users
 
-user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
+user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
 Public Key: Sun RSA public key, 2048 bits
-  modulus: 25057620927912810098730816172307236261456361690260811504569948997948497951094057060826348852020488420585553466561341831107417126917012157998080869560162756213315200700772765140880413385666639918777956616272555746228423459499887006250262625650399728723681599085416641114900910831473204448049092104131412865022695774462137543891002016481301204943216115940941510778494540498160538239153549405983184519448478439712078954983722781321303025550662719887615207719129372011364974640734692033646389642068783455309409562818962297145503973709438153790192938798286375985437516830963792916597656783711408109157942070604324594451151
+  modulus: 17287888308932901412702987921542289972493360928230828315114745320869404952389939212697305229894527617213722101148098209734887991992490852990222821227387103457692912546199049988662579164250073659773909924050463180569121151389708497149450675585891742867928863127317897982733730305366396650402515354086318871564826164202562697378313687582876065342648492657759846717286820084496850680003711457554892676003109933148705573455042703961035423113487982399641457074420233472839814753256828667990073733602326645560651593733953039041266585045830615672734078612216500754705688212502500891359168197144557195973623431080474300780887
   public exponent: 65537
-Number Of coins:2
+Number Of coins:10
 Wallet Content
 
-Coin_ff6c221d-389d-4586-95a1-1d9b8767eb2f
-Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
+Coin_93d8fa82-7e1d-411b-af83-9f42befef6d1
+Coin_ee4cd48f-ebfe-4281-aa46-affaff97e3b5
+Coin_1177764b-043c-4a0a-a31c-9454afac4b3f
+Coin_59a4f8ce-033f-4ce0-9740-76c9638ed254
+Coin_05d7ffa3-b81d-4919-ada3-1455b66e8a97
+Coin_fbe76308-4d8c-4014-83ca-da57d749ff2f
+Coin_ec26e251-729d-4000-addf-2bad5ec7b71f
+Coin_16b75b31-006f-4c20-8435-25c5a9e47be6
+Coin_466483be-1d3f-4b4b-825b-e94fd7b0e917
+Coin_63e65755-ffdc-4c14-877b-0fac69432b17
 
 
-user_2d782268-358b-427e-af34-32f7e98f4920
+user_c4dc066f-f167-48e7-a1b3-d72688dd9584
 Public Key: Sun RSA public key, 2048 bits
-  modulus: 18587884759398000080625622782987436259300016906265011534863135077777949081603489023217722499240654590875217885045814306180722331479538000496484706261466795815135322281720181510910861441769265179035770994791109843366792906242941835733555526779671916584429065274255326101446964861112215184741726059757572885912379420482580330162379626143136956171678995924662285974782094037103455897742782099023994838160647137220689582454777503621455093832794376303967660043227253562656590996515768524291398993141744373437727749565833704573526503340612789646495272361700124187159666753379356786315615908348037989989562924906166212600919
+  modulus: 17140139051297004160304983516717953443327626897512317069833843767712412417183002295372917733775038047386885998542974433287404084269133800367088697962747267554889821119545226498143250056259925564628457517273611802965627372396821102868787204555333775430236010102320395894113807848223328239917135627865871028254184797853008303633003341958988918890772525765998746585474002330323216087031238633470483138323854687377401130719872430433793408067548107690556507124775836408347137106446777479706005714512806118099325141556673753331484450050012995084972074957207142540364601090579248538891121101946212490023676823192448304757147
   public exponent: 65537
-Number Of coins:2
+Number Of coins:10
 Wallet Content
 
-Coin_61dd89df-e347-41ca-914d-7fd46f02c8d2
-Coin_ef4cff6f-a548-4d38-aaab-3eff3141ce8a
+Coin_d8589bb2-530b-4dc4-a627-ede5c2884958
+Coin_cc51d1f4-7ec9-4bc1-896f-7d91afa116d4
+Coin_3ead6a2d-549e-4181-9121-ef49b575c9cc
+Coin_0e158027-c95d-4093-a7e9-eb03ec80bbf3
+Coin_7e192c01-9e5e-40df-814f-9a43c75dd2fc
+Coin_3567e3b8-f688-4d5f-81ae-6ddf14769d53
+Coin_5438f28b-210a-47d7-9b97-b62006f243e9
+Coin_ae64a6c9-3140-47cb-80af-2acc24a77f88
+Coin_3ceff2dd-8884-4ca7-a85d-5ad551f31fab
+Coin_5ff5830e-c796-43fe-9e7b-dfccd29bd5f2
 
 
-User: user_2d782268-358b-427e-af34-32f7e98f4920 Is sending User:user_2d782268-358b-427e-af34-32f7e98f4920 2 Coins
+user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+Public Key: Sun RSA public key, 2048 bits
+  modulus: 22018944226952450123401961526028020082340337432917951769486092809054287752306285459563270632043811888466872241542088640196525856758445485053017461473206116240706389871423890018596285499736302251327061418347530356059630830146739652123165042492452123191943202405350389499673149570069932340876367323840166126099485726920157701053171123941631181856682407638268520782270731371994155963722504039059190133085314548447966602492592357770916882680369702107165207975244818481515997450341147243381615711419597954961643503495224825136974629432968270362553922384164492415803928032373078642369074132843662322198137213294311261880103
+  public exponent: 65537
+Number Of coins:10
+Wallet Content
+
+Coin_8a637039-0b42-4865-8030-f5194465a94e
+Coin_d46f779f-021b-4770-b85a-a4ec0cc39e0f
+Coin_14b2a909-ddfd-4763-8088-df97578acb35
+Coin_638f02c0-553d-4190-ba13-5e47e737275a
+Coin_32e3f689-14ce-4b65-9c4b-a35067cdbcaf
+Coin_2e188a73-3162-4a34-93cc-f3fd802e0d72
+Coin_25417084-a22e-4023-a133-a224b34b39f4
+Coin_3a97afc8-9006-4d5d-8e4b-5b621321b8e6
+Coin_60477ef7-76f0-4e21-bd98-b3945dbf9e4d
+Coin_35057cbd-216b-4b8b-be9f-9d94acc50ba9
+
+
+user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Public Key: Sun RSA public key, 2048 bits
+  modulus: 25791204617262230982012728641312997975918964570906929869912132471285880309252078391028977313987993531124538558626326768289860351195326554561000309990526667350798551310587018102311436918594251664003006420999573979274977895837349842864246168596058247919275174600694363052310762428319571117460633229872539773912503041833243749326168114025828457633695617012742685862533557446365422403778189593890871072983191326359926562553291280605593501884319269882915809856054592391766019665519844617032389533884240829169925536991494917733390086543267877819707399997061599118102681191742237738125922792340060450027333640114155881987711
+  public exponent: 65537
+Number Of coins:10
+Wallet Content
+
+Coin_3aaea0ba-a253-4b82-a52a-8a6a3e3d6491
+Coin_281b20f5-ef97-491a-9f69-f828c3a11335
+Coin_f6664923-e67a-4843-bb5f-5c9ce5fcf204
+Coin_6b9fb93d-aa23-4cb3-a3f2-f9b0326b23e7
+Coin_a548b9fb-fae3-4f00-b33b-0eac58aca4df
+Coin_522500a2-7017-4fd0-90bf-3e57ebbb7c7b
+Coin_60fa8ac9-f2a0-4c18-aba6-c60dc1ee9aec
+Coin_b4b586c3-c927-4a87-b8b6-6e8bcd9d0a90
+Coin_e7698ae0-9b18-4b97-b3c5-2b89880e63fc
+Coin_8cf82f76-40f8-4000-b5f5-e6da96bcb7de
+
+
+user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+Public Key: Sun RSA public key, 2048 bits
+  modulus: 22214771598189256276306334927328791739284783740253509022773650663183233156663026255204252787252845993748515126770580046317525972708207997088785011732207753256174718802856803057216300660339016980694708727000648117707077629654313920903024944452101764449139292356551294337800119516568049085610263866020569494886379664448299953703842684897380756199289464826565021810067220648519533587042357095893598164091312616566651895392763721584516624774422362019838526973311792773423879544746909602645099551517940082642903488099380211671437568640100390361100156217708859195323123524721065123983715166750631380742460510655169465002387
+  public exponent: 65537
+Number Of coins:10
+Wallet Content
+
+Coin_4aecefad-a62e-4df2-8dec-c4ae7622e1c3
+Coin_ab6ae569-4dd5-4199-a8ea-10c17742bad5
+Coin_8c43a10f-1496-467b-b379-b8b768b36101
+Coin_6e7ed800-06fe-4530-abb3-48c8f89fb2d5
+Coin_edfc0677-c87b-420f-ba13-843208e8aeae
+Coin_fd03c194-d2e8-457c-ae07-08b2603d4d69
+Coin_d0d882da-597d-4d37-86b5-8cf5ac03c599
+Coin_f520e307-e854-44f8-9e72-a60f70d4651e
+Coin_d3ce093e-e1b6-4514-b402-4fd916c3be99
+Coin_b1ea8c19-a995-49ef-9f4f-365f5ff0364b
+
+
+user_e43d74f9-8367-4426-9477-e2a12e24046b
+Public Key: Sun RSA public key, 2048 bits
+  modulus: 25679090977867367233930690339549217784954012095366940874914762226716144978527155273970763259511336026921889871645931215712085360326334636365702386438594124518396051335709880539536524741402476844817207594698672092405722817189325360860190248181843982764343463601461050008439766543795143553343477209920231670733799264294107550978159254683337956109757394535085037433161546489683949673204874519637463856177763448505716530897329474362112198609097554501052705453029244654315374863240881504391003300352377948462338680531713649713650057049007077085052774785646584385378306339422435209432808346350496000058543462963718371314677
+  public exponent: 65537
+Number Of coins:10
+Wallet Content
+
+Coin_37c3e941-5775-4220-909e-7c1b2a0f820a
+Coin_1f3a21f8-de94-40b0-a475-e933b476b0a7
+Coin_05172819-c717-425d-8243-968df32c459e
+Coin_d8ae14c4-31ee-4071-963e-f422a82fb73b
+Coin_3d658840-ecce-4c1f-8a04-3598cf34db6d
+Coin_c522a10a-d6e0-4935-a73b-4d35d8ca7e88
+Coin_7df7a638-5877-4acb-b342-1194fe453575
+Coin_ef0a59ac-9e67-440e-a09c-98ceccac65ee
+Coin_7b874c9c-9657-4071-912e-6834e7a612fc
+Coin_4ca8c92a-dee1-4953-bc41-62141a562cb9
+
+
+user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Public Key: Sun RSA public key, 2048 bits
+  modulus: 22547626993826927812098394415129639205105200332130889177235760801002670624657678675987054733775717155314774426963424652494347354052951170466042405348568443098308702599798893544696723544429298485322614174117910249909556288266656581385039952846278445854998868230381294257787817406122340070718891873069355187361024804501147314783970551330214337784434293624499528029277254075215520684917249709002561791101653807830564141440513572839373237758824557680281956960484658904174813957223272554880392126355019241391609374303367715520405503317634156193243218548418052801755602086815181664367942057296607992091389672552166415168527
+  public exponent: 65537
+Number Of coins:10
+Wallet Content
+
+Coin_30c9b62c-1fcc-47fa-a041-8b680e6faba0
+Coin_6542db8d-4fe4-489f-83b2-cb5f42a28623
+Coin_418e4652-6f06-4c89-aa33-dd2767cd6ffa
+Coin_2bfb7113-8b69-43c2-9f5f-69d6a78caa08
+Coin_64c76796-9769-432c-bf8b-6278dac5faad
+Coin_71f77962-2c92-49e0-a030-2f53a6dda562
+Coin_cd1d2eea-883b-4d35-ba67-56f5580e9e75
+Coin_d821f8f8-3d4c-47a1-bf1c-3264c8233cbc
+Coin_f319e30b-6875-4849-8033-7a925000f01c
+Coin_e03e836f-2ee4-4f67-a679-b42106d8fa08
+
+
+user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+Public Key: Sun RSA public key, 2048 bits
+  modulus: 25293107736748687159973021607559519734228589377841824503574048828232012945286169660009780443660389706483974093704249087996438985664739160842969029899494494195926616253538072384459521522297426340021195928827073299195781395881215942903356507479352354856108369015090881127176171563673239953843302810191761561857470476567073981897782673331060980599460804764350015193287850895933040838348464159815451188503315816567463101071127654843052656548792774394796278873814190135776928273805790935150378147433510725126821808341694705922992921013515805608411307039803305758382065881777124718684649280705499294680470678981696284983233
+  public exponent: 65537
+Number Of coins:10
+Wallet Content
+
+Coin_e004c6dd-0522-4df6-b36f-3c8ba1d911fc
+Coin_28c002b3-8312-459a-aa8e-431eccbc8848
+Coin_e05849b3-595a-4610-a0df-49a0466a2d57
+Coin_a98916ab-fd10-4cbb-93ec-5385bc0fb206
+Coin_49194c8d-be4d-4234-b80e-1265081c2a05
+Coin_e7692711-d26e-48b0-9ab7-98a915149281
+Coin_8c1f1dbf-fc0d-44a9-828d-6561e59b89f7
+Coin_ef0bc989-9051-4474-99fb-7410461cfc24
+Coin_bef031d6-123c-478b-8098-1776a7c4506f
+Coin_2a82ff0e-7d98-4b21-af6f-16fe790ac4bc
+
+
+user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+Public Key: Sun RSA public key, 2048 bits
+  modulus: 18306438211337782341552375772700619760594620858476023593279310464122658327429120767837942138798760453713574712368894426395828456142701302999155543712231249157909358056820057276778282581770486953483731427200744195054806444382639957777019353273253588601604167705461717346157026077105421476399853201593058116997353294108024426827886807039617427301644422795950928223371831273927788102226572134958356043078067015079411344894349572727604601578500202662147381427945888181658084516256349581721819039931243844018478960110399787956185750060701153882401131936248716758777536655221754427888264724213081280266881586606956265061697
+  public exponent: 65537
+Number Of coins:10
+Wallet Content
+
+Coin_4f263044-9814-464a-9404-b82acc40b404
+Coin_223e66ec-1829-422e-b898-5996acefa8a5
+Coin_4e7031a6-07fe-4b35-8d56-921eb8cfcd21
+Coin_6998d5a5-26bc-4f01-a278-c2df4a2d85d2
+Coin_5e5a5bff-e96b-49dd-a575-05b251b144df
+Coin_cda46aca-8efb-4852-988f-e40bbf80bb0a
+Coin_c3390705-f4a6-418e-ae3f-9a282ed4f640
+Coin_361c8065-fd50-465d-9f68-9091e2fe2095
+Coin_ec173f56-4bfd-46e0-9861-efc4702e57df
+Coin_5a392a40-8cec-4e86-950b-c7a66e35bb78
+
+
+user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+Public Key: Sun RSA public key, 2048 bits
+  modulus: 16223007964063960008617843587786793223793315493364929020363063133989932500058942968696331115303668250923508954638326932726895144216705557797019404969119105917620650610708783365288971686946878646183607760120965639108999958944798487700095851195323971064135212861067891648878130716317564830940912452968725298221451825470370285780512057631260044902213091731662128319653521250589108152421878989175242442049304121164875908811709296209184325965320810760157087835399449317255490059646283931649718553004275263167849215951459967872864694997224646221291094720783501301269241418023955754730811645933363954469210598870868293270549
+  public exponent: 65537
+Number Of coins:10
+Wallet Content
+
+Coin_92e80c8d-53c2-4c22-a05d-182ce4ec9c81
+Coin_654d58c5-77e8-42cd-a812-1dd26707c160
+Coin_fb000798-3e1c-4763-86cd-4a8ccb98261b
+Coin_267fb526-50cb-43fd-9042-cebeae4d9741
+Coin_df940378-85da-4c8d-9220-b3bc324b0fe6
+Coin_6338bcfc-0711-4b6e-9db0-c234b344f695
+Coin_d44dfc6e-9892-4242-9b09-8b740b845733
+Coin_729f15a6-96bf-4f92-b26c-e0c6146eeb94
+Coin_130b051b-8b2f-4e04-8ac5-bb016ef90d2a
+Coin_414a976e-9641-4a74-aa4e-ca3797afa9c9
+
+
+User: user_43e72856-8ce2-463e-9c0b-dfa23c74297d Is sending User:user_43e72856-8ce2-463e-9c0b-dfa23c74297d 3 Coins
 
 Random transaction
 
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_ef4cff6f-a548-4d38-aaab-3eff3141ce8a
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: 5a6ecdb193b05d53353307752d918d6c49cd21878aa8c884223abe8b31d1f459
-Transaction Hash: 628816144a4ef726f22c7f0308879423d98b6cde857b0794ea6a5ad7438a85a3
+User: user_43e72856-8ce2-463e-9c0b-dfa23c74297d 
+is attempting to send Coin_e7698ae0-9b18-4b97-b3c5-2b89880e63fc
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: 4d63947b2b5a8d98712f09c87eafdfd5e85e4997b74d3a53b9a1f63efb1a343
+Transaction Hash: 67a7f72d3d4a4be52499aa294cd2b3baf578fe61feb0cdfdec95666c2b1b57f5
 
 Block Under Construction
-block_27a3d20c-1255-418e-8d69-38aa4e0fe018
-Hash Value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+block_48806895-6cc7-4e82-8eb5-e70a9ca28dc4
+Hash Value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
 Number of transaction:1
 Transactions ids:
 
-transaction_17d03c42-3986-4dbb-b2c7-a3cf1fbbf13b
+transaction_3d354662-b130-4bf0-81f6-43817881c5b1
 
 
 Random transaction
 
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_ef4cff6f-a548-4d38-aaab-3eff3141ce8a
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: 5a6ecdb193b05d53353307752d918d6c49cd21878aa8c884223abe8b31d1f459
-Transaction Hash: 628816144a4ef726f22c7f0308879423d98b6cde857b0794ea6a5ad7438a85a3
+User: user_43e72856-8ce2-463e-9c0b-dfa23c74297d 
+is attempting to send Coin_b4b586c3-c927-4a87-b8b6-6e8bcd9d0a90
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: e243eed97cf40b667a36fd7c12f4875064c44d77a466901997e756f174653935
+Transaction Hash: 8aadca0614ec578b3b9f2f6e8880f5021dbd75d0d6c012cc109a435d4cd1682
+
+Block Under Construction
+block_48806895-6cc7-4e82-8eb5-e70a9ca28dc4
+Hash Value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Number of transaction:2
+Transactions ids:
+
+transaction_3d354662-b130-4bf0-81f6-43817881c5b1
+
+transaction_5561235c-16af-4fed-b645-31716336e433
+
+
+Random transaction
+
+User: user_43e72856-8ce2-463e-9c0b-dfa23c74297d 
+is attempting to send Coin_3aaea0ba-a253-4b82-a52a-8a6a3e3d6491
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: 99905a099d8f4aa4d9deabbb8c6cf95aefd0ae9e5dcc5617cbf41c5aa38fb384
+Transaction Hash: 80dffbd85777f30bfe1acb063e359024360a277e85a78092a1a7022c294c11a2
+
+Block Under Construction
+block_48806895-6cc7-4e82-8eb5-e70a9ca28dc4
+Hash Value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Number of transaction:3
+Transactions ids:
+
+transaction_3d354662-b130-4bf0-81f6-43817881c5b1
+
+transaction_5561235c-16af-4fed-b645-31716336e433
+
+transaction_0c78a4d5-65c7-4803-8614-a2bd409b5807
+
+
+User: user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e Is sending User:user_fe7676bf-8c41-481c-a797-eab0ac61efca 4 Coins
+
+Random transaction
+
+User: user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e 
+is attempting to send Coin_ab6ae569-4dd5-4199-a8ea-10c17742bad5
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: a554dc37503dcdf04ac885ad644f8a29865663a894c819d7c7088e57de61fcfe
+Transaction Hash: 8d7fc6ef14d4fa84a2dfb4c7f075e6b4cbe255468445d1019395ed0c8e4598b
+
+Block Under Construction
+block_48806895-6cc7-4e82-8eb5-e70a9ca28dc4
+Hash Value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Number of transaction:4
+Transactions ids:
+
+transaction_3d354662-b130-4bf0-81f6-43817881c5b1
+
+transaction_5561235c-16af-4fed-b645-31716336e433
+
+transaction_0c78a4d5-65c7-4803-8614-a2bd409b5807
+
+transaction_a382cc83-017e-4ee0-aa46-f1efd6e5cf7b
+
+
+Random transaction
+
+User: user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e 
+is attempting to send Coin_edfc0677-c87b-420f-ba13-843208e8aeae
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: b039f0edeebabdf08f106215633247b666ffab48f4a38a865b4c2b8987b5b50b
+Transaction Hash: 6d43ca270c35f54e38568a59ef30d5732b21b393d7fb18277b692e483786ce72
+
+Block Under Construction
+block_48806895-6cc7-4e82-8eb5-e70a9ca28dc4
+Hash Value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Number of transaction:5
+Transactions ids:
+
+transaction_3d354662-b130-4bf0-81f6-43817881c5b1
+
+transaction_5561235c-16af-4fed-b645-31716336e433
+
+transaction_0c78a4d5-65c7-4803-8614-a2bd409b5807
+
+transaction_a382cc83-017e-4ee0-aa46-f1efd6e5cf7b
+
+transaction_4b946781-86cb-43e6-92e0-e36929ff19a1
+
+
+Random transaction
+
+User: user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e 
+is attempting to send Coin_b1ea8c19-a995-49ef-9f4f-365f5ff0364b
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: 4e4a063584dc2c0bbf0d51feed7a7c07e73cfa80683c25e2e286c80a1f3bd644
+Transaction Hash: 84c4e9f5e6f8aa2d6f5d3e548b47f972f1c95b3e8d44373b1fc441109b90d90b
+
+Block Under Construction
+block_48806895-6cc7-4e82-8eb5-e70a9ca28dc4
+Hash Value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Number of transaction:6
+Transactions ids:
+
+transaction_3d354662-b130-4bf0-81f6-43817881c5b1
+
+transaction_5561235c-16af-4fed-b645-31716336e433
+
+transaction_0c78a4d5-65c7-4803-8614-a2bd409b5807
+
+transaction_a382cc83-017e-4ee0-aa46-f1efd6e5cf7b
+
+transaction_4b946781-86cb-43e6-92e0-e36929ff19a1
+
+transaction_ff64fbfd-459c-4f18-93ad-deb95366ddfa
+
+
+Random transaction
+
+User: user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e 
+is attempting to send Coin_d3ce093e-e1b6-4514-b402-4fd916c3be99
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: da79ac1059d90da7f9e2362349ea1c07a77f4a774c35e2264b817fbecd6a695f
+Transaction Hash: 43c64e8abf1a47805d94a11eb692761cfd0394b064258eed16cedd744f05d5c1
+
+Block Under Construction
+block_48806895-6cc7-4e82-8eb5-e70a9ca28dc4
+Hash Value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Number of transaction:7
+Transactions ids:
+
+transaction_3d354662-b130-4bf0-81f6-43817881c5b1
+
+transaction_5561235c-16af-4fed-b645-31716336e433
+
+transaction_0c78a4d5-65c7-4803-8614-a2bd409b5807
+
+transaction_a382cc83-017e-4ee0-aa46-f1efd6e5cf7b
+
+transaction_4b946781-86cb-43e6-92e0-e36929ff19a1
+
+transaction_ff64fbfd-459c-4f18-93ad-deb95366ddfa
+
+transaction_b4121341-05f8-4486-8dad-490cf1eadf8d
+
+
+User: user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095 Is sending User:user_fe7676bf-8c41-481c-a797-eab0ac61efca 9 Coins
+
+Random transaction
+
+User: user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095 
+is attempting to send Coin_5a392a40-8cec-4e86-950b-c7a66e35bb78
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: f2cd7e219459739a7da31d42706c0ad305b58fe6ffd596e3f219250d817ccbe2
+Transaction Hash: 941aab013a782bd67181b778fd9cf27cb7a43e1cb79d5642b2b95272edc27994
+
+Block Under Construction
+block_48806895-6cc7-4e82-8eb5-e70a9ca28dc4
+Hash Value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Number of transaction:8
+Transactions ids:
+
+transaction_3d354662-b130-4bf0-81f6-43817881c5b1
+
+transaction_5561235c-16af-4fed-b645-31716336e433
+
+transaction_0c78a4d5-65c7-4803-8614-a2bd409b5807
+
+transaction_a382cc83-017e-4ee0-aa46-f1efd6e5cf7b
+
+transaction_4b946781-86cb-43e6-92e0-e36929ff19a1
+
+transaction_ff64fbfd-459c-4f18-93ad-deb95366ddfa
+
+transaction_b4121341-05f8-4486-8dad-490cf1eadf8d
+
+transaction_9a1ed554-8fe3-4a60-b9f7-b6c19f5b4acc
+
+
+Random transaction
+
+User: user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095 
+is attempting to send Coin_5e5a5bff-e96b-49dd-a575-05b251b144df
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: ffa001bcea5177fa740af35a73e6179545f5564c3c8ac2414c00652465e4f2b
+Transaction Hash: a260b5d797ab6261d06506a77655b74e74e0c3054ce7f31400cf052c33c39507
+
+Block Under Construction
+block_48806895-6cc7-4e82-8eb5-e70a9ca28dc4
+Hash Value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Number of transaction:9
+Transactions ids:
+
+transaction_3d354662-b130-4bf0-81f6-43817881c5b1
+
+transaction_5561235c-16af-4fed-b645-31716336e433
+
+transaction_0c78a4d5-65c7-4803-8614-a2bd409b5807
+
+transaction_a382cc83-017e-4ee0-aa46-f1efd6e5cf7b
+
+transaction_4b946781-86cb-43e6-92e0-e36929ff19a1
+
+transaction_ff64fbfd-459c-4f18-93ad-deb95366ddfa
+
+transaction_b4121341-05f8-4486-8dad-490cf1eadf8d
+
+transaction_9a1ed554-8fe3-4a60-b9f7-b6c19f5b4acc
+
+transaction_1cc2212d-48b4-4ed5-bcbc-967fed8b40a8
+
+
+Random transaction
+
+User: user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095 
+is attempting to send Coin_5e5a5bff-e96b-49dd-a575-05b251b144df
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: ffa001bcea5177fa740af35a73e6179545f5564c3c8ac2414c00652465e4f2b
+Transaction Hash: a260b5d797ab6261d06506a77655b74e74e0c3054ce7f31400cf052c33c39507
 
 Double spending attack
-User: user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5 Is sending User:user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5 1 Coins
-
 Random transaction
 
-User: user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5 
-is attempting to send Coin_ff6c221d-389d-4586-95a1-1d9b8767eb2f
-To user:user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
-Given this Previous Hash: f8b153d7b3982c41a5715205ea07538e70df4aafed5786638083d1842dd36575
-Transaction Hash: 95d51f113b2ccd4689d0ef5c66e4adcec15482a7cbae2b9386670ea1f12db6b6
+User: user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095 
+is attempting to send Coin_ec173f56-4bfd-46e0-9861-efc4702e57df
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: 9d39814ba2c39d78b56555c678a6fa3c14ead2f8fcc9c4f3b14ff4ab3c8db1ac
+Transaction Hash: 6688ad3803524ac912d761de97207cf1a177048f251f99992772a72787313b92
 
 Blockchain after a new block is added
-Number of blocks:3
-Signature of final block:H74dCna/A9nxWczKdSCr+G4Z1on1dWwAICS2aMdn/pNLATMuLd+tXD3bhuJgFC/wvUZtOziw0jTwsUfPcisn+Nu1aDy7Rs7egeJjpBe7bV5LkPeeURisM4WzlSgEIY4peC/ZQZlkJlo7ziWmpCIFHuNIC3bBJv1WC/P5rmCiEb+KTctIPgCnORo0qCSoNdKaZOJh36eWykiO67/7cCVBYJW7VXnRVZz4mAIXWIexvY4z33asJ0eyelGkfg6Vc+ii/Y2qEguJxUsYkpArt6KW+GvOViPKAnWSLkdZBZpxCBwFnRFvq6GnBS43oVo2xYukm2XxNDfzHvlOETiYQwFzRQ==
+Number of blocks:11
+Signature of final block:VlWmTFP8krE8r7QzvyjdH0X9zX2b9L1qI2m/ImOWBsUNhvpd69FbpFqD0iiBi8FvJ/h8r68XDBkHpFYIix0kq6lDTyPZz9V8cDsjKh7KhzPokqJT32MwP4nuny0BEmyAkfRo0otSrYQuIUSb5Puecrm5nWebVB7ol4d6ZM1AaN2RsiGZNNuHQMCbPbYSxm9Bs6VJAV+1BbbWDlXc3a7lT2zDfbh24ODIoE8JMwMJupgpvtsYqAuR4t014PXMCtul3zEyYWtxRUtpABO+MVaa2DS04+ZLZPpvuZoU98yqfRcUo8Ce4pECorvBW1GR4IxI+cAJ1GTC8MtBFTjNazQ2cQ==
 Block:0
 Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
 Hash pointer to previous block:null
-Number Of transactions:2
+Number Of transactions:10
 Block:1
 Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
 Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
-Number Of transactions:2
+Number Of transactions:10
 Block:2
 Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
 Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
-Number Of transactions:2
-
-Updated users Wallets
-user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
-Public Key: Sun RSA public key, 2048 bits
-  modulus: 25057620927912810098730816172307236261456361690260811504569948997948497951094057060826348852020488420585553466561341831107417126917012157998080869560162756213315200700772765140880413385666639918777956616272555746228423459499887006250262625650399728723681599085416641114900910831473204448049092104131412865022695774462137543891002016481301204943216115940941510778494540498160538239153549405983184519448478439712078954983722781321303025550662719887615207719129372011364974640734692033646389642068783455309409562818962297145503973709438153790192938798286375985437516830963792916597656783711408109157942070604324594451151
-  public exponent: 65537
-Number Of coins:2
-Wallet Content
-
-Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-Coin_ff6c221d-389d-4586-95a1-1d9b8767eb2f
-
-user_2d782268-358b-427e-af34-32f7e98f4920
-Public Key: Sun RSA public key, 2048 bits
-  modulus: 18587884759398000080625622782987436259300016906265011534863135077777949081603489023217722499240654590875217885045814306180722331479538000496484706261466795815135322281720181510910861441769265179035770994791109843366792906242941835733555526779671916584429065274255326101446964861112215184741726059757572885912379420482580330162379626143136956171678995924662285974782094037103455897742782099023994838160647137220689582454777503621455093832794376303967660043227253562656590996515768524291398993141744373437727749565833704573526503340612789646495272361700124187159666753379356786315615908348037989989562924906166212600919
-  public exponent: 65537
-Number Of coins:2
-Wallet Content
-
-Coin_61dd89df-e347-41ca-914d-7fd46f02c8d2
-Coin_ef4cff6f-a548-4d38-aaab-3eff3141ce8a
-
-Block Under Construction
-block_452ab774-d3c3-43c9-8f79-303ec29e142f
-Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
-Number of transaction:0
-Transactions ids:
-
-
-User: user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5 Is sending User:user_2d782268-358b-427e-af34-32f7e98f4920 2 Coins
-
-Random transaction
-
-User: user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5 
-is attempting to send Coin_ff6c221d-389d-4586-95a1-1d9b8767eb2f
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: 95d51f113b2ccd4689d0ef5c66e4adcec15482a7cbae2b9386670ea1f12db6b6
-Transaction Hash: c3245371ce88b071a5db9cf3720c01060078dd0f644e2fe928b4c28e7d12e858
-
-Block Under Construction
-block_452ab774-d3c3-43c9-8f79-303ec29e142f
-Hash Value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
-Number of transaction:1
-Transactions ids:
-
-transaction_2adb6af4-b892-428d-8397-27377596917b
-
-
-Random transaction
-
-User: user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5 
-is attempting to send Coin_ff6c221d-389d-4586-95a1-1d9b8767eb2f
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: 95d51f113b2ccd4689d0ef5c66e4adcec15482a7cbae2b9386670ea1f12db6b6
-Transaction Hash: c3245371ce88b071a5db9cf3720c01060078dd0f644e2fe928b4c28e7d12e858
-
-Double spending attack
-User: user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5 Is sending User:user_2d782268-358b-427e-af34-32f7e98f4920 1 Coins
-
-Random transaction
-
-User: user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: a67853f2aee7305eedde50eb7869ebd81b558c4e7adc57e13dc3f6345c5907a5
-Transaction Hash: 7d5dfcedc0e439f75a136f93a4ea7dc5d87dce8f507e9ca528cc3a8606434e9a
-
-Blockchain after a new block is added
-Number of blocks:4
-Signature of final block:DzlWWa56cRVHOFJU+oPuNWbQH8cNA7dgxAbef9Dnm6TCSMKVX2cAAfNx8VE1CVfOx4jJaXy88am/JnVnraxmHX0JC39Vr0WFTfS+WDbzMvNi+RF6Z4qEhMgkSZ1xjrxwpGPZaGiFKD/CpagI3hf47iuxtoYwPTeCh2rZBVkXC4QV/hH0o9JNMvA06g2wzL1EoJ4lnFwKfiqwgL7qRgT4pzgz6hRNTaL1HUQZZJHJT5p9rc1OMBE3KEy8ygPIu0G8d2iDpYdxUedDG9hV3Z87g4+sII2vju4ng9suHkkCiYo/Irx5bFV7+Zil1scpgcJX2ua6dGDJbCKUZojkxI0F6A==
-Block:0
-Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
-Hash pointer to previous block:null
-Number Of transactions:2
-Block:1
-Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
-Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
-Number Of transactions:2
-Block:2
-Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
-Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
-Number Of transactions:2
+Number Of transactions:10
 Block:3
 Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
 Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
-Number Of transactions:2
-
-Updated users Wallets
-user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
-Public Key: Sun RSA public key, 2048 bits
-  modulus: 25057620927912810098730816172307236261456361690260811504569948997948497951094057060826348852020488420585553466561341831107417126917012157998080869560162756213315200700772765140880413385666639918777956616272555746228423459499887006250262625650399728723681599085416641114900910831473204448049092104131412865022695774462137543891002016481301204943216115940941510778494540498160538239153549405983184519448478439712078954983722781321303025550662719887615207719129372011364974640734692033646389642068783455309409562818962297145503973709438153790192938798286375985437516830963792916597656783711408109157942070604324594451151
-  public exponent: 65537
-Number Of coins:0
-Wallet Content
-
-
-user_2d782268-358b-427e-af34-32f7e98f4920
-Public Key: Sun RSA public key, 2048 bits
-  modulus: 18587884759398000080625622782987436259300016906265011534863135077777949081603489023217722499240654590875217885045814306180722331479538000496484706261466795815135322281720181510910861441769265179035770994791109843366792906242941835733555526779671916584429065274255326101446964861112215184741726059757572885912379420482580330162379626143136956171678995924662285974782094037103455897742782099023994838160647137220689582454777503621455093832794376303967660043227253562656590996515768524291398993141744373437727749565833704573526503340612789646495272361700124187159666753379356786315615908348037989989562924906166212600919
-  public exponent: 65537
-Number Of coins:4
-Wallet Content
-
-Coin_61dd89df-e347-41ca-914d-7fd46f02c8d2
-Coin_ef4cff6f-a548-4d38-aaab-3eff3141ce8a
-Coin_ff6c221d-389d-4586-95a1-1d9b8767eb2f
-Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-
-Block Under Construction
-block_76a6d8ca-c84b-4e08-8ee5-054c226fbf25
-Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
-Number of transaction:0
-Transactions ids:
-
-
-User: user_2d782268-358b-427e-af34-32f7e98f4920 Is sending User:user_2d782268-358b-427e-af34-32f7e98f4920 4 Coins
-
-Random transaction
-
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: 7d5dfcedc0e439f75a136f93a4ea7dc5d87dce8f507e9ca528cc3a8606434e9a
-Transaction Hash: 123cdfbe5030f7e36cf42cde3ad51e7b0af3ebd1f802c1015926147ec4d494e5
-
-Block Under Construction
-block_76a6d8ca-c84b-4e08-8ee5-054c226fbf25
-Hash Value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
-Number of transaction:1
-Transactions ids:
-
-transaction_f06c3522-9c67-4f09-91b1-8912d748beee
-
-
-Random transaction
-
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: 7d5dfcedc0e439f75a136f93a4ea7dc5d87dce8f507e9ca528cc3a8606434e9a
-Transaction Hash: 123cdfbe5030f7e36cf42cde3ad51e7b0af3ebd1f802c1015926147ec4d494e5
-
-Double spending attack
-Random transaction
-
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: 7d5dfcedc0e439f75a136f93a4ea7dc5d87dce8f507e9ca528cc3a8606434e9a
-Transaction Hash: 123cdfbe5030f7e36cf42cde3ad51e7b0af3ebd1f802c1015926147ec4d494e5
-
-Double spending attack
-Random transaction
-
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: 7d5dfcedc0e439f75a136f93a4ea7dc5d87dce8f507e9ca528cc3a8606434e9a
-Transaction Hash: 123cdfbe5030f7e36cf42cde3ad51e7b0af3ebd1f802c1015926147ec4d494e5
-
-Double spending attack
-User: user_2d782268-358b-427e-af34-32f7e98f4920 Is sending User:user_2d782268-358b-427e-af34-32f7e98f4920 3 Coins
-
-Random transaction
-
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_ff6c221d-389d-4586-95a1-1d9b8767eb2f
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: c3245371ce88b071a5db9cf3720c01060078dd0f644e2fe928b4c28e7d12e858
-Transaction Hash: fb6cafad328fba9269a0a07efd4b0d681064cce3fbbddfa495d0d95aac281131
-
-Blockchain after a new block is added
-Number of blocks:5
-Signature of final block:Z5oQBQHaiTOe2s8N66LgRT/py1asFUcBKu8tS6/GiLd2ZdYmER5p3dnOGolqcCQk3w6P/RXkp5sYOXnN59kaS1ThkK1ElpxzO1/T/eOpqMERcMJxK+Dy604JlIVH9YVPC6pzierE/5feETIzyh0iv8okkLPGHVrfcDu0I6HatOwYoouIjpeHrLApR/Joeg9VFQKRTy8u+Q6Rwlv5SA67A+CLJZK3oZ44HnJoZjoWJ8uNUyJyabxhYXFi1RSjDHrRCMzYlZunBMkupT/wWwFBfKxeLt5so+K6nfNCx0ewrGOxTs9yaVa7fDgUwCrkggmGi5vb5oNTC9llsknSu7udYg==
-Block:0
-Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
-Hash pointer to previous block:null
-Number Of transactions:2
-Block:1
-Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
-Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
-Number Of transactions:2
-Block:2
-Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
-Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
-Number Of transactions:2
-Block:3
-Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
-Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
-Number Of transactions:2
+Number Of transactions:10
 Block:4
 Hash value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
 Hash pointer to previous block:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
-Number Of transactions:2
-
-Updated users Wallets
-user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
-Public Key: Sun RSA public key, 2048 bits
-  modulus: 25057620927912810098730816172307236261456361690260811504569948997948497951094057060826348852020488420585553466561341831107417126917012157998080869560162756213315200700772765140880413385666639918777956616272555746228423459499887006250262625650399728723681599085416641114900910831473204448049092104131412865022695774462137543891002016481301204943216115940941510778494540498160538239153549405983184519448478439712078954983722781321303025550662719887615207719129372011364974640734692033646389642068783455309409562818962297145503973709438153790192938798286375985437516830963792916597656783711408109157942070604324594451151
-  public exponent: 65537
-Number Of coins:0
-Wallet Content
-
-
-user_2d782268-358b-427e-af34-32f7e98f4920
-Public Key: Sun RSA public key, 2048 bits
-  modulus: 18587884759398000080625622782987436259300016906265011534863135077777949081603489023217722499240654590875217885045814306180722331479538000496484706261466795815135322281720181510910861441769265179035770994791109843366792906242941835733555526779671916584429065274255326101446964861112215184741726059757572885912379420482580330162379626143136956171678995924662285974782094037103455897742782099023994838160647137220689582454777503621455093832794376303967660043227253562656590996515768524291398993141744373437727749565833704573526503340612789646495272361700124187159666753379356786315615908348037989989562924906166212600919
-  public exponent: 65537
-Number Of coins:4
-Wallet Content
-
-Coin_61dd89df-e347-41ca-914d-7fd46f02c8d2
-Coin_ef4cff6f-a548-4d38-aaab-3eff3141ce8a
-Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-Coin_ff6c221d-389d-4586-95a1-1d9b8767eb2f
-
-Block Under Construction
-block_8a0bbe0a-13f5-4492-bac7-be5fde4b2779
-Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
-Number of transaction:0
-Transactions ids:
-
-
-Random transaction
-
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: 123cdfbe5030f7e36cf42cde3ad51e7b0af3ebd1f802c1015926147ec4d494e5
-Transaction Hash: 18d5697ba2f7e8eeeaceba568d935638e99faf78b6c4f23452df24df94c27412
-
-Block Under Construction
-block_8a0bbe0a-13f5-4492-bac7-be5fde4b2779
-Hash Value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
-Number of transaction:1
-Transactions ids:
-
-transaction_1d83fabe-720c-4877-aed0-4de959421749
-
-
-Random transaction
-
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_2d782268-358b-427e-af34-32f7e98f4920
-Given this Previous Hash: 123cdfbe5030f7e36cf42cde3ad51e7b0af3ebd1f802c1015926147ec4d494e5
-Transaction Hash: 18d5697ba2f7e8eeeaceba568d935638e99faf78b6c4f23452df24df94c27412
-
-Double spending attack
-User: user_2d782268-358b-427e-af34-32f7e98f4920 Is sending User:user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5 1 Coins
-
-Random transaction
-
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_61dd89df-e347-41ca-914d-7fd46f02c8d2
-To user:user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
-Given this Previous Hash: 1438726e9ebc67f0fa4566155841dd98643b22453a6eed884af62b63760200f7
-Transaction Hash: 3a0efaac65b13fcce4abcbef7ac8f0fd79a04726307951b2929467008f86731
-
-Blockchain after a new block is added
-Number of blocks:6
-Signature of final block:i0SF0rN4LxvM+3gvIWf7GbMrpGyLlb0nfnE1GCLqMNCZ5wOuDB7Br2coGbCdiscy8c3stAHo/44hg5woBw6edB9RIi1PEX2iuANz0pcPyOivVi2QAOMiFk/pJ7G7Z5HgQesXpZ2FBT0vzWvtardPp3DkKdvdEqcu1s/MfUHXBXs32DEgwJYTqTqT4hJg7j+oFlFjj4UcwNgl8N05ZPV1vlQRkAHJZewrI5owPxaj3M36D73yUeyP+aRKvAypMDj8WZgblq8OBcysSZiPZR4+LY13reUwHlY8wqHWdYOHAAcNqIgMweP1N+0PvYzT+Hc/tY73qgms2JfxZK/Vrz/zZg==
-Block:0
-Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
-Hash pointer to previous block:null
-Number Of transactions:2
-Block:1
-Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
-Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
-Number Of transactions:2
-Block:2
-Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
-Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
-Number Of transactions:2
-Block:3
-Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
-Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
-Number Of transactions:2
-Block:4
-Hash value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
-Hash pointer to previous block:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
-Number Of transactions:2
+Number Of transactions:10
 Block:5
 Hash value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
 Hash pointer to previous block:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
-Number Of transactions:2
+Number Of transactions:10
+Block:6
+Hash value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Hash pointer to previous block:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number Of transactions:10
+Block:7
+Hash value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Hash pointer to previous block:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number Of transactions:10
+Block:8
+Hash value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Hash pointer to previous block:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number Of transactions:10
+Block:9
+Hash value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Hash pointer to previous block:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number Of transactions:10
+Block:10
+Hash value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Hash pointer to previous block:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number Of transactions:10
 
 Updated users Wallets
-user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
-Public Key: Sun RSA public key, 2048 bits
-  modulus: 25057620927912810098730816172307236261456361690260811504569948997948497951094057060826348852020488420585553466561341831107417126917012157998080869560162756213315200700772765140880413385666639918777956616272555746228423459499887006250262625650399728723681599085416641114900910831473204448049092104131412865022695774462137543891002016481301204943216115940941510778494540498160538239153549405983184519448478439712078954983722781321303025550662719887615207719129372011364974640734692033646389642068783455309409562818962297145503973709438153790192938798286375985437516830963792916597656783711408109157942070604324594451151
-  public exponent: 65537
-Number Of coins:1
-Wallet Content
 
-Coin_61dd89df-e347-41ca-914d-7fd46f02c8d2
+user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
+[Coin_93d8fa82-7e1d-411b-af83-9f42befef6d1, Coin_ee4cd48f-ebfe-4281-aa46-affaff97e3b5, Coin_1177764b-043c-4a0a-a31c-9454afac4b3f, Coin_59a4f8ce-033f-4ce0-9740-76c9638ed254, Coin_05d7ffa3-b81d-4919-ada3-1455b66e8a97, Coin_fbe76308-4d8c-4014-83ca-da57d749ff2f, Coin_ec26e251-729d-4000-addf-2bad5ec7b71f, Coin_16b75b31-006f-4c20-8435-25c5a9e47be6, Coin_466483be-1d3f-4b4b-825b-e94fd7b0e917, Coin_63e65755-ffdc-4c14-877b-0fac69432b17]
 
-user_2d782268-358b-427e-af34-32f7e98f4920
-Public Key: Sun RSA public key, 2048 bits
-  modulus: 18587884759398000080625622782987436259300016906265011534863135077777949081603489023217722499240654590875217885045814306180722331479538000496484706261466795815135322281720181510910861441769265179035770994791109843366792906242941835733555526779671916584429065274255326101446964861112215184741726059757572885912379420482580330162379626143136956171678995924662285974782094037103455897742782099023994838160647137220689582454777503621455093832794376303967660043227253562656590996515768524291398993141744373437727749565833704573526503340612789646495272361700124187159666753379356786315615908348037989989562924906166212600919
-  public exponent: 65537
-Number Of coins:3
-Wallet Content
+user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+[Coin_d8589bb2-530b-4dc4-a627-ede5c2884958, Coin_cc51d1f4-7ec9-4bc1-896f-7d91afa116d4, Coin_3ead6a2d-549e-4181-9121-ef49b575c9cc, Coin_0e158027-c95d-4093-a7e9-eb03ec80bbf3, Coin_7e192c01-9e5e-40df-814f-9a43c75dd2fc, Coin_3567e3b8-f688-4d5f-81ae-6ddf14769d53, Coin_5438f28b-210a-47d7-9b97-b62006f243e9, Coin_ae64a6c9-3140-47cb-80af-2acc24a77f88, Coin_3ceff2dd-8884-4ca7-a85d-5ad551f31fab, Coin_5ff5830e-c796-43fe-9e7b-dfccd29bd5f2]
 
-Coin_ef4cff6f-a548-4d38-aaab-3eff3141ce8a
-Coin_ff6c221d-389d-4586-95a1-1d9b8767eb2f
-Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
+user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+[Coin_8a637039-0b42-4865-8030-f5194465a94e, Coin_d46f779f-021b-4770-b85a-a4ec0cc39e0f, Coin_14b2a909-ddfd-4763-8088-df97578acb35, Coin_638f02c0-553d-4190-ba13-5e47e737275a, Coin_32e3f689-14ce-4b65-9c4b-a35067cdbcaf, Coin_2e188a73-3162-4a34-93cc-f3fd802e0d72, Coin_25417084-a22e-4023-a133-a224b34b39f4, Coin_3a97afc8-9006-4d5d-8e4b-5b621321b8e6, Coin_60477ef7-76f0-4e21-bd98-b3945dbf9e4d, Coin_35057cbd-216b-4b8b-be9f-9d94acc50ba9]
+
+user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+[Coin_281b20f5-ef97-491a-9f69-f828c3a11335, Coin_f6664923-e67a-4843-bb5f-5c9ce5fcf204, Coin_6b9fb93d-aa23-4cb3-a3f2-f9b0326b23e7, Coin_a548b9fb-fae3-4f00-b33b-0eac58aca4df, Coin_522500a2-7017-4fd0-90bf-3e57ebbb7c7b, Coin_60fa8ac9-f2a0-4c18-aba6-c60dc1ee9aec, Coin_8cf82f76-40f8-4000-b5f5-e6da96bcb7de, Coin_e7698ae0-9b18-4b97-b3c5-2b89880e63fc, Coin_b4b586c3-c927-4a87-b8b6-6e8bcd9d0a90, Coin_3aaea0ba-a253-4b82-a52a-8a6a3e3d6491]
+
+user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+[Coin_4aecefad-a62e-4df2-8dec-c4ae7622e1c3, Coin_8c43a10f-1496-467b-b379-b8b768b36101, Coin_6e7ed800-06fe-4530-abb3-48c8f89fb2d5, Coin_fd03c194-d2e8-457c-ae07-08b2603d4d69, Coin_d0d882da-597d-4d37-86b5-8cf5ac03c599, Coin_f520e307-e854-44f8-9e72-a60f70d4651e]
+
+user_e43d74f9-8367-4426-9477-e2a12e24046b
+[Coin_37c3e941-5775-4220-909e-7c1b2a0f820a, Coin_1f3a21f8-de94-40b0-a475-e933b476b0a7, Coin_05172819-c717-425d-8243-968df32c459e, Coin_d8ae14c4-31ee-4071-963e-f422a82fb73b, Coin_3d658840-ecce-4c1f-8a04-3598cf34db6d, Coin_c522a10a-d6e0-4935-a73b-4d35d8ca7e88, Coin_7df7a638-5877-4acb-b342-1194fe453575, Coin_ef0a59ac-9e67-440e-a09c-98ceccac65ee, Coin_7b874c9c-9657-4071-912e-6834e7a612fc, Coin_4ca8c92a-dee1-4953-bc41-62141a562cb9]
+
+user_fe7676bf-8c41-481c-a797-eab0ac61efca
+[Coin_30c9b62c-1fcc-47fa-a041-8b680e6faba0, Coin_6542db8d-4fe4-489f-83b2-cb5f42a28623, Coin_418e4652-6f06-4c89-aa33-dd2767cd6ffa, Coin_2bfb7113-8b69-43c2-9f5f-69d6a78caa08, Coin_64c76796-9769-432c-bf8b-6278dac5faad, Coin_71f77962-2c92-49e0-a030-2f53a6dda562, Coin_cd1d2eea-883b-4d35-ba67-56f5580e9e75, Coin_d821f8f8-3d4c-47a1-bf1c-3264c8233cbc, Coin_f319e30b-6875-4849-8033-7a925000f01c, Coin_e03e836f-2ee4-4f67-a679-b42106d8fa08, Coin_ab6ae569-4dd5-4199-a8ea-10c17742bad5, Coin_edfc0677-c87b-420f-ba13-843208e8aeae, Coin_b1ea8c19-a995-49ef-9f4f-365f5ff0364b, Coin_d3ce093e-e1b6-4514-b402-4fd916c3be99, Coin_5a392a40-8cec-4e86-950b-c7a66e35bb78, Coin_5e5a5bff-e96b-49dd-a575-05b251b144df, Coin_ec173f56-4bfd-46e0-9861-efc4702e57df]
+
+user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+[Coin_e004c6dd-0522-4df6-b36f-3c8ba1d911fc, Coin_28c002b3-8312-459a-aa8e-431eccbc8848, Coin_e05849b3-595a-4610-a0df-49a0466a2d57, Coin_a98916ab-fd10-4cbb-93ec-5385bc0fb206, Coin_49194c8d-be4d-4234-b80e-1265081c2a05, Coin_e7692711-d26e-48b0-9ab7-98a915149281, Coin_8c1f1dbf-fc0d-44a9-828d-6561e59b89f7, Coin_ef0bc989-9051-4474-99fb-7410461cfc24, Coin_bef031d6-123c-478b-8098-1776a7c4506f, Coin_2a82ff0e-7d98-4b21-af6f-16fe790ac4bc]
+
+user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+[Coin_4f263044-9814-464a-9404-b82acc40b404, Coin_223e66ec-1829-422e-b898-5996acefa8a5, Coin_4e7031a6-07fe-4b35-8d56-921eb8cfcd21, Coin_6998d5a5-26bc-4f01-a278-c2df4a2d85d2, Coin_cda46aca-8efb-4852-988f-e40bbf80bb0a, Coin_c3390705-f4a6-418e-ae3f-9a282ed4f640, Coin_361c8065-fd50-465d-9f68-9091e2fe2095]
+
+user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+[Coin_92e80c8d-53c2-4c22-a05d-182ce4ec9c81, Coin_654d58c5-77e8-42cd-a812-1dd26707c160, Coin_fb000798-3e1c-4763-86cd-4a8ccb98261b, Coin_267fb526-50cb-43fd-9042-cebeae4d9741, Coin_df940378-85da-4c8d-9220-b3bc324b0fe6, Coin_6338bcfc-0711-4b6e-9db0-c234b344f695, Coin_d44dfc6e-9892-4242-9b09-8b740b845733, Coin_729f15a6-96bf-4f92-b26c-e0c6146eeb94, Coin_130b051b-8b2f-4e04-8ac5-bb016ef90d2a, Coin_414a976e-9641-4a74-aa4e-ca3797afa9c9]
 
 Block Under Construction
-block_777164de-2f2d-4298-9d18-1dc37cf1b273
-Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+block_127aa158-cea1-49d3-9c71-d2ca2e006292
+Hash Value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
 Number of transaction:0
 Transactions ids:
 
 
-User: user_2d782268-358b-427e-af34-32f7e98f4920 Is sending User:user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5 3 Coins
-
 Random transaction
 
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
-Given this Previous Hash: 18d5697ba2f7e8eeeaceba568d935638e99faf78b6c4f23452df24df94c27412
-Transaction Hash: 43b151552fd84e98bd028ec4e5ce88fdc9459821eb3d9187430a4560d9a8fa15
+User: user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095 
+is attempting to send Coin_4e7031a6-07fe-4b35-8d56-921eb8cfcd21
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: 8d7539d6c9f4f92b97626e96368bebda494e3c0a258f7f5f7e2b26341d51b54b
+Transaction Hash: c026de6fa51b30339e152e2e2787d2a6a360957f0764fb9107a5adb6e46aee76
 
 Block Under Construction
-block_777164de-2f2d-4298-9d18-1dc37cf1b273
-Hash Value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+block_127aa158-cea1-49d3-9c71-d2ca2e006292
+Hash Value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
 Number of transaction:1
 Transactions ids:
 
-transaction_66e689b4-a66e-4a3b-9554-a13ded73bfd6
+transaction_30b361c2-a4dc-402b-995b-8d9639d23a43
 
 
 Random transaction
 
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
-Given this Previous Hash: 18d5697ba2f7e8eeeaceba568d935638e99faf78b6c4f23452df24df94c27412
-Transaction Hash: 43b151552fd84e98bd028ec4e5ce88fdc9459821eb3d9187430a4560d9a8fa15
+User: user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095 
+is attempting to send Coin_361c8065-fd50-465d-9f68-9091e2fe2095
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: dd5873e8d95c4460879ed863d2fe8e7951827944a44d5a684c5e61f0d3d9400c
+Transaction Hash: ee5ab6fb6177af64fe5ccd18721ccacb51d6ffdb098a2009242e033be8c7b876
+
+Block Under Construction
+block_127aa158-cea1-49d3-9c71-d2ca2e006292
+Hash Value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
+Number of transaction:2
+Transactions ids:
+
+transaction_30b361c2-a4dc-402b-995b-8d9639d23a43
+
+transaction_aea6fdb5-a8cb-4707-a934-91461d92910b
+
+
+Random transaction
+
+User: user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095 
+is attempting to send Coin_cda46aca-8efb-4852-988f-e40bbf80bb0a
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: 858547e7486688f7bfc6372bb8af3b54bbc0165138ef09b3196e26eb198e079f
+Transaction Hash: bbb77ff2833d14cb3b0fecb229c49725a2f0a23a9439554def1aaa1d62731c47
+
+Block Under Construction
+block_127aa158-cea1-49d3-9c71-d2ca2e006292
+Hash Value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
+Number of transaction:3
+Transactions ids:
+
+transaction_30b361c2-a4dc-402b-995b-8d9639d23a43
+
+transaction_aea6fdb5-a8cb-4707-a934-91461d92910b
+
+transaction_ee36d8e9-155a-4458-b0ca-8b59e8960caf
+
+
+Random transaction
+
+User: user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095 
+is attempting to send Coin_4e7031a6-07fe-4b35-8d56-921eb8cfcd21
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: 8d7539d6c9f4f92b97626e96368bebda494e3c0a258f7f5f7e2b26341d51b54b
+Transaction Hash: c026de6fa51b30339e152e2e2787d2a6a360957f0764fb9107a5adb6e46aee76
 
 Double spending attack
 Random transaction
 
-User: user_2d782268-358b-427e-af34-32f7e98f4920 
-is attempting to send Coin_0bb74be7-4269-4d7c-9a62-5ff5a4884c64
-To user:user_4fb4316c-fa76-4cd5-af5d-0fe3f9d251d5
-Given this Previous Hash: 18d5697ba2f7e8eeeaceba568d935638e99faf78b6c4f23452df24df94c27412
-Transaction Hash: 43b151552fd84e98bd028ec4e5ce88fdc9459821eb3d9187430a4560d9a8fa15
+User: user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095 
+is attempting to send Coin_6998d5a5-26bc-4f01-a278-c2df4a2d85d2
+To user:user_fe7676bf-8c41-481c-a797-eab0ac61efca
+Given this Previous Hash: 295a7217df30a2f66b23d917da536371c6700ac1358a4a3663d6242a75349240
+Transaction Hash: 128fabb9fe6a5ec177def91c10fbf5f9fd402f6cc50121dad3ccabba45f797da
+
+Block Under Construction
+block_127aa158-cea1-49d3-9c71-d2ca2e006292
+Hash Value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
+Number of transaction:4
+Transactions ids:
+
+transaction_30b361c2-a4dc-402b-995b-8d9639d23a43
+
+transaction_aea6fdb5-a8cb-4707-a934-91461d92910b
+
+transaction_ee36d8e9-155a-4458-b0ca-8b59e8960caf
+
+transaction_ca215a6f-efe1-4a34-9551-fdf35df69fc0
+
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 Is sending User:user_c4dc066f-f167-48e7-a1b3-d72688dd9584 10 Coins
+
+Random transaction
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 
+is attempting to send Coin_df940378-85da-4c8d-9220-b3bc324b0fe6
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: 640f3b1bb6ab7859d35603c24da7d219e075ce044edf2cf2d500675a6bf48b0f
+Transaction Hash: 4049d049ccea20e41031602b2ed3333623c97a4f0c618ee667f8e30e2ded2c1e
+
+Block Under Construction
+block_127aa158-cea1-49d3-9c71-d2ca2e006292
+Hash Value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
+Number of transaction:5
+Transactions ids:
+
+transaction_30b361c2-a4dc-402b-995b-8d9639d23a43
+
+transaction_aea6fdb5-a8cb-4707-a934-91461d92910b
+
+transaction_ee36d8e9-155a-4458-b0ca-8b59e8960caf
+
+transaction_ca215a6f-efe1-4a34-9551-fdf35df69fc0
+
+transaction_e089dafb-433c-446a-9aea-d89745acd793
+
+
+Random transaction
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 
+is attempting to send Coin_df940378-85da-4c8d-9220-b3bc324b0fe6
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: 640f3b1bb6ab7859d35603c24da7d219e075ce044edf2cf2d500675a6bf48b0f
+Transaction Hash: 4049d049ccea20e41031602b2ed3333623c97a4f0c618ee667f8e30e2ded2c1e
 
 Double spending attack
+Random transaction
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 
+is attempting to send Coin_fb000798-3e1c-4763-86cd-4a8ccb98261b
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: f54f79eede2bd2b8c0ce5c6515542aec1794331ad471618f337df59a6ffe98d7
+Transaction Hash: fe51cab42fd5f538db0a83523eb66eb736fdd625ca3ffc9780d50f7252d9fe2a
+
+Block Under Construction
+block_127aa158-cea1-49d3-9c71-d2ca2e006292
+Hash Value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
+Number of transaction:6
+Transactions ids:
+
+transaction_30b361c2-a4dc-402b-995b-8d9639d23a43
+
+transaction_aea6fdb5-a8cb-4707-a934-91461d92910b
+
+transaction_ee36d8e9-155a-4458-b0ca-8b59e8960caf
+
+transaction_ca215a6f-efe1-4a34-9551-fdf35df69fc0
+
+transaction_e089dafb-433c-446a-9aea-d89745acd793
+
+transaction_d9d83a65-6417-4286-a8d1-6067694d1d58
+
+
+Random transaction
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 
+is attempting to send Coin_df940378-85da-4c8d-9220-b3bc324b0fe6
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: 640f3b1bb6ab7859d35603c24da7d219e075ce044edf2cf2d500675a6bf48b0f
+Transaction Hash: 4049d049ccea20e41031602b2ed3333623c97a4f0c618ee667f8e30e2ded2c1e
+
+Double spending attack
+Random transaction
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 
+is attempting to send Coin_130b051b-8b2f-4e04-8ac5-bb016ef90d2a
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: 32a189de4edb5aa480a209ed69beb87a576139787ad0a21e45d9e65d6680103b
+Transaction Hash: 9e09b1fd60b23fac8b8511c1c9d8cb7ef7d411971c6c31797bdb344002e290eb
+
+Block Under Construction
+block_127aa158-cea1-49d3-9c71-d2ca2e006292
+Hash Value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
+Number of transaction:7
+Transactions ids:
+
+transaction_30b361c2-a4dc-402b-995b-8d9639d23a43
+
+transaction_aea6fdb5-a8cb-4707-a934-91461d92910b
+
+transaction_ee36d8e9-155a-4458-b0ca-8b59e8960caf
+
+transaction_ca215a6f-efe1-4a34-9551-fdf35df69fc0
+
+transaction_e089dafb-433c-446a-9aea-d89745acd793
+
+transaction_d9d83a65-6417-4286-a8d1-6067694d1d58
+
+transaction_7a3144d3-d8b5-4d67-9fbd-1c121d8a4469
+
+
+Random transaction
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 
+is attempting to send Coin_130b051b-8b2f-4e04-8ac5-bb016ef90d2a
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: 32a189de4edb5aa480a209ed69beb87a576139787ad0a21e45d9e65d6680103b
+Transaction Hash: 9e09b1fd60b23fac8b8511c1c9d8cb7ef7d411971c6c31797bdb344002e290eb
+
+Double spending attack
+Random transaction
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 
+is attempting to send Coin_414a976e-9641-4a74-aa4e-ca3797afa9c9
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: dd1459fed04ecd6f5b4b7be9d5813ccdf849e8ff14a05e25208d17ba52ef5393
+Transaction Hash: c8721620fcde9b4c0a427a4f8b89b9926c8149cec9856cba85841e73885db88f
+
+Block Under Construction
+block_127aa158-cea1-49d3-9c71-d2ca2e006292
+Hash Value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
+Number of transaction:8
+Transactions ids:
+
+transaction_30b361c2-a4dc-402b-995b-8d9639d23a43
+
+transaction_aea6fdb5-a8cb-4707-a934-91461d92910b
+
+transaction_ee36d8e9-155a-4458-b0ca-8b59e8960caf
+
+transaction_ca215a6f-efe1-4a34-9551-fdf35df69fc0
+
+transaction_e089dafb-433c-446a-9aea-d89745acd793
+
+transaction_d9d83a65-6417-4286-a8d1-6067694d1d58
+
+transaction_7a3144d3-d8b5-4d67-9fbd-1c121d8a4469
+
+transaction_51ba3329-e6df-47f1-8437-59c29ce2df42
+
+
+Random transaction
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 
+is attempting to send Coin_267fb526-50cb-43fd-9042-cebeae4d9741
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: fc0f8997370519ab9f7e1c4b96e0f89d31222f0fda96374fa30afce95b0e1f0b
+Transaction Hash: 8480b4e150c0fb025685436f0244024e78859392cbd52bbbfdebaf3a5533560
+
+Block Under Construction
+block_127aa158-cea1-49d3-9c71-d2ca2e006292
+Hash Value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
+Number of transaction:9
+Transactions ids:
+
+transaction_30b361c2-a4dc-402b-995b-8d9639d23a43
+
+transaction_aea6fdb5-a8cb-4707-a934-91461d92910b
+
+transaction_ee36d8e9-155a-4458-b0ca-8b59e8960caf
+
+transaction_ca215a6f-efe1-4a34-9551-fdf35df69fc0
+
+transaction_e089dafb-433c-446a-9aea-d89745acd793
+
+transaction_d9d83a65-6417-4286-a8d1-6067694d1d58
+
+transaction_7a3144d3-d8b5-4d67-9fbd-1c121d8a4469
+
+transaction_51ba3329-e6df-47f1-8437-59c29ce2df42
+
+transaction_262e6709-ebb7-4f31-85ea-b7f975b6946f
+
+
+Random transaction
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 
+is attempting to send Coin_729f15a6-96bf-4f92-b26c-e0c6146eeb94
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: 44a2fda82e6b1f162c2be95550c28417cf8a28ffc570da4c7ac6a902e5125cc9
+Transaction Hash: b7c12f7754726320e206fe94a472c40f3d4dcb4fa1ba58a71238efd44163d942
+
+Blockchain after a new block is added
+Number of blocks:12
+Signature of final block:AEXGMZ/HBk8TveCsfvthhOahJ6AxEBHHbSSmnrjq7xa03skOOy1a8CXeu59jKwWYrCAA4C5BK3eUrSk1hIqJjcipHlsDeF9iOS4bZUw5pCOyCK4UqLkC8OrwHwwdRuuaR1VhFpYAuCKEZS+Gaj7O/sXNVHq0RG9U6CHxUMrbLTIvHw6q9LDDF3CEBiRK8yZNqLXq2g83tnxRKCM4fyyu74e84/OPLBV1YBNthjKiqchMCdOvG1W78IElvInj/RmYqOAJ4WQG6jr0+mviUqEu1MFripzH1Fo7/Xe/7e4H9GdI03sFo89N8J+aVChoFk+oVP79bVtE0N125DJJTloQew==
+Block:0
+Hash value:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Hash pointer to previous block:null
+Number Of transactions:10
+Block:1
+Hash value:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Hash pointer to previous block:d67d28471247e227c1416180b705a592e05ffa982866ff7fa1795898320361d
+Number Of transactions:10
+Block:2
+Hash value:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Hash pointer to previous block:17c1105dc004fd9a675e507372d5fc9961d688885759fb6fa958b1570db7cd13
+Number Of transactions:10
+Block:3
+Hash value:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Hash pointer to previous block:c0e90e86668e62fde301fbcfb59c0441a661c245dbc08f8fcc2ada5fabd2a8ee
+Number Of transactions:10
+Block:4
+Hash value:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Hash pointer to previous block:fad6b1020962c099e0c67c7901a528f6c0554ae143feed9f5b272517f32c259c
+Number Of transactions:10
+Block:5
+Hash value:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Hash pointer to previous block:2d2d8a9f6b62ec5f5db6a5f6a41e870bb109bec11418690455572d84bc53e6f3
+Number Of transactions:10
+Block:6
+Hash value:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Hash pointer to previous block:a888bbd31db9a9c285e4f13d6022b0ec01afd46be8836265204cdde82c8ee573
+Number Of transactions:10
+Block:7
+Hash value:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Hash pointer to previous block:a3a09f98a76d5f1894104bfcba6b35bcf637b18e0e4a678bcbc6f3640259a194
+Number Of transactions:10
+Block:8
+Hash value:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Hash pointer to previous block:e2c45bd45cdf5f2e3fbbbefaadb380b4f1f8a2e9c50b8875c79a3d7bd1d43b95
+Number Of transactions:10
+Block:9
+Hash value:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Hash pointer to previous block:8b125d2e48a52b3bec541a309996c85b262cc3b92ba4632b7c257e728a1e2f0
+Number Of transactions:10
+Block:10
+Hash value:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Hash pointer to previous block:aa9d32b03c4d273cdff56dc9907b085af6c4f27a6f81c27524920daa75a5edab
+Number Of transactions:10
+Block:11
+Hash value:853b01fd80ade800b52907dda3af0624135dcb72c5879c8325311af05dd6c633
+Hash pointer to previous block:41b3785db12e697cfd9f079358da3dad8cde0c2a91b7ba057bacbde2ef8723a6
+Number Of transactions:10
+
+Updated users Wallets
+
+user_68b4a219-c6ed-480f-ae56-72fa12b8bf53
+[Coin_93d8fa82-7e1d-411b-af83-9f42befef6d1, Coin_ee4cd48f-ebfe-4281-aa46-affaff97e3b5, Coin_1177764b-043c-4a0a-a31c-9454afac4b3f, Coin_59a4f8ce-033f-4ce0-9740-76c9638ed254, Coin_05d7ffa3-b81d-4919-ada3-1455b66e8a97, Coin_fbe76308-4d8c-4014-83ca-da57d749ff2f, Coin_ec26e251-729d-4000-addf-2bad5ec7b71f, Coin_16b75b31-006f-4c20-8435-25c5a9e47be6, Coin_466483be-1d3f-4b4b-825b-e94fd7b0e917, Coin_63e65755-ffdc-4c14-877b-0fac69432b17]
+
+user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+[Coin_d8589bb2-530b-4dc4-a627-ede5c2884958, Coin_cc51d1f4-7ec9-4bc1-896f-7d91afa116d4, Coin_3ead6a2d-549e-4181-9121-ef49b575c9cc, Coin_0e158027-c95d-4093-a7e9-eb03ec80bbf3, Coin_7e192c01-9e5e-40df-814f-9a43c75dd2fc, Coin_3567e3b8-f688-4d5f-81ae-6ddf14769d53, Coin_5438f28b-210a-47d7-9b97-b62006f243e9, Coin_ae64a6c9-3140-47cb-80af-2acc24a77f88, Coin_3ceff2dd-8884-4ca7-a85d-5ad551f31fab, Coin_5ff5830e-c796-43fe-9e7b-dfccd29bd5f2, Coin_df940378-85da-4c8d-9220-b3bc324b0fe6, Coin_fb000798-3e1c-4763-86cd-4a8ccb98261b, Coin_130b051b-8b2f-4e04-8ac5-bb016ef90d2a, Coin_414a976e-9641-4a74-aa4e-ca3797afa9c9, Coin_267fb526-50cb-43fd-9042-cebeae4d9741, Coin_729f15a6-96bf-4f92-b26c-e0c6146eeb94]
+
+user_25f7f34e-0ab7-40b7-8e12-7f6faabd57d8
+[Coin_8a637039-0b42-4865-8030-f5194465a94e, Coin_d46f779f-021b-4770-b85a-a4ec0cc39e0f, Coin_14b2a909-ddfd-4763-8088-df97578acb35, Coin_638f02c0-553d-4190-ba13-5e47e737275a, Coin_32e3f689-14ce-4b65-9c4b-a35067cdbcaf, Coin_2e188a73-3162-4a34-93cc-f3fd802e0d72, Coin_25417084-a22e-4023-a133-a224b34b39f4, Coin_3a97afc8-9006-4d5d-8e4b-5b621321b8e6, Coin_60477ef7-76f0-4e21-bd98-b3945dbf9e4d, Coin_35057cbd-216b-4b8b-be9f-9d94acc50ba9]
+
+user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+[Coin_281b20f5-ef97-491a-9f69-f828c3a11335, Coin_f6664923-e67a-4843-bb5f-5c9ce5fcf204, Coin_6b9fb93d-aa23-4cb3-a3f2-f9b0326b23e7, Coin_a548b9fb-fae3-4f00-b33b-0eac58aca4df, Coin_522500a2-7017-4fd0-90bf-3e57ebbb7c7b, Coin_60fa8ac9-f2a0-4c18-aba6-c60dc1ee9aec, Coin_8cf82f76-40f8-4000-b5f5-e6da96bcb7de, Coin_e7698ae0-9b18-4b97-b3c5-2b89880e63fc, Coin_b4b586c3-c927-4a87-b8b6-6e8bcd9d0a90, Coin_3aaea0ba-a253-4b82-a52a-8a6a3e3d6491]
+
+user_0e99042f-d2a8-4abb-b48c-7d2a8c2e688e
+[Coin_4aecefad-a62e-4df2-8dec-c4ae7622e1c3, Coin_8c43a10f-1496-467b-b379-b8b768b36101, Coin_6e7ed800-06fe-4530-abb3-48c8f89fb2d5, Coin_fd03c194-d2e8-457c-ae07-08b2603d4d69, Coin_d0d882da-597d-4d37-86b5-8cf5ac03c599, Coin_f520e307-e854-44f8-9e72-a60f70d4651e]
+
+user_e43d74f9-8367-4426-9477-e2a12e24046b
+[Coin_37c3e941-5775-4220-909e-7c1b2a0f820a, Coin_1f3a21f8-de94-40b0-a475-e933b476b0a7, Coin_05172819-c717-425d-8243-968df32c459e, Coin_d8ae14c4-31ee-4071-963e-f422a82fb73b, Coin_3d658840-ecce-4c1f-8a04-3598cf34db6d, Coin_c522a10a-d6e0-4935-a73b-4d35d8ca7e88, Coin_7df7a638-5877-4acb-b342-1194fe453575, Coin_ef0a59ac-9e67-440e-a09c-98ceccac65ee, Coin_7b874c9c-9657-4071-912e-6834e7a612fc, Coin_4ca8c92a-dee1-4953-bc41-62141a562cb9]
+
+user_fe7676bf-8c41-481c-a797-eab0ac61efca
+[Coin_30c9b62c-1fcc-47fa-a041-8b680e6faba0, Coin_6542db8d-4fe4-489f-83b2-cb5f42a28623, Coin_418e4652-6f06-4c89-aa33-dd2767cd6ffa, Coin_2bfb7113-8b69-43c2-9f5f-69d6a78caa08, Coin_64c76796-9769-432c-bf8b-6278dac5faad, Coin_71f77962-2c92-49e0-a030-2f53a6dda562, Coin_cd1d2eea-883b-4d35-ba67-56f5580e9e75, Coin_d821f8f8-3d4c-47a1-bf1c-3264c8233cbc, Coin_f319e30b-6875-4849-8033-7a925000f01c, Coin_e03e836f-2ee4-4f67-a679-b42106d8fa08, Coin_ab6ae569-4dd5-4199-a8ea-10c17742bad5, Coin_edfc0677-c87b-420f-ba13-843208e8aeae, Coin_b1ea8c19-a995-49ef-9f4f-365f5ff0364b, Coin_d3ce093e-e1b6-4514-b402-4fd916c3be99, Coin_5a392a40-8cec-4e86-950b-c7a66e35bb78, Coin_5e5a5bff-e96b-49dd-a575-05b251b144df, Coin_ec173f56-4bfd-46e0-9861-efc4702e57df, Coin_4e7031a6-07fe-4b35-8d56-921eb8cfcd21, Coin_361c8065-fd50-465d-9f68-9091e2fe2095, Coin_cda46aca-8efb-4852-988f-e40bbf80bb0a, Coin_6998d5a5-26bc-4f01-a278-c2df4a2d85d2]
+
+user_e257f62e-60d8-47fd-a4f5-1b63b029d374
+[Coin_e004c6dd-0522-4df6-b36f-3c8ba1d911fc, Coin_28c002b3-8312-459a-aa8e-431eccbc8848, Coin_e05849b3-595a-4610-a0df-49a0466a2d57, Coin_a98916ab-fd10-4cbb-93ec-5385bc0fb206, Coin_49194c8d-be4d-4234-b80e-1265081c2a05, Coin_e7692711-d26e-48b0-9ab7-98a915149281, Coin_8c1f1dbf-fc0d-44a9-828d-6561e59b89f7, Coin_ef0bc989-9051-4474-99fb-7410461cfc24, Coin_bef031d6-123c-478b-8098-1776a7c4506f, Coin_2a82ff0e-7d98-4b21-af6f-16fe790ac4bc]
+
+user_84b01881-ffa3-47b9-8b72-f3e7d8b6d095
+[Coin_4f263044-9814-464a-9404-b82acc40b404, Coin_223e66ec-1829-422e-b898-5996acefa8a5, Coin_c3390705-f4a6-418e-ae3f-9a282ed4f640]
+
+user_0ad00dd9-4aea-4101-ba15-4f97c3afe598
+[Coin_92e80c8d-53c2-4c22-a05d-182ce4ec9c81, Coin_654d58c5-77e8-42cd-a812-1dd26707c160, Coin_6338bcfc-0711-4b6e-9db0-c234b344f695, Coin_d44dfc6e-9892-4242-9b09-8b740b845733]
+
+Block Under Construction
+block_7e68a537-cd5b-4be1-92c2-766e29f45caf
+Hash Value:c06d2ed4662ea49b4942626d7553191c6dcdf7bcc6fcc6926847b0dd3ba32f17
+Number of transaction:0
+Transactions ids:
+
+
+Random transaction
+
+User: user_0ad00dd9-4aea-4101-ba15-4f97c3afe598 
+is attempting to send Coin_654d58c5-77e8-42cd-a812-1dd26707c160
+To user:user_c4dc066f-f167-48e7-a1b3-d72688dd9584
+Given this Previous Hash: 4cdd2a0365181cbde9efd7dfa3373dd5c2fe8af49f8b34bf47370979263f468d
+Transaction Hash: 82fff6c469786d551edc2586122d72c3130a94cc9bc982958309195b5261e621
+
+Block Under Construction
+block_7e68a537-cd5b-4be1-92c2-766e29f45caf
+Hash Value:c06d2ed4662ea49b4942626d7553191c6dcdf7bcc6fcc6926847b0dd3ba32f17
+Number of transaction:1
+Transactions ids:
+
+transaction_9ced31df-a07e-4231-8e7e-606bdb62f81d
+
+
+User: user_e257f62e-60d8-47fd-a4f5-1b63b029d374 Is sending User:user_43e72856-8ce2-463e-9c0b-dfa23c74297d 3 Coins
+
+Random transaction
+
+User: user_e257f62e-60d8-47fd-a4f5-1b63b029d374 
+is attempting to send Coin_2a82ff0e-7d98-4b21-af6f-16fe790ac4bc
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: 4c4998fb44871bc0f51e78a6beaac03ded548ce2c969c9114eada55ce7d3cbc8
+Transaction Hash: a928996faca4bd41a8649e113b244b82dd2bf64c28e1ab13c7d63bb7380dfca9
+
+Block Under Construction
+block_7e68a537-cd5b-4be1-92c2-766e29f45caf
+Hash Value:c06d2ed4662ea49b4942626d7553191c6dcdf7bcc6fcc6926847b0dd3ba32f17
+Number of transaction:2
+Transactions ids:
+
+transaction_9ced31df-a07e-4231-8e7e-606bdb62f81d
+
+transaction_6bd600ef-9b6c-4c71-92f4-4570ebd8614b
+
+
+Random transaction
+
+User: user_e257f62e-60d8-47fd-a4f5-1b63b029d374 
+is attempting to send Coin_a98916ab-fd10-4cbb-93ec-5385bc0fb206
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: 840511c1f9056b0cacaad4bbf746503a67629260e426aad4095048437640cd69
+Transaction Hash: fa8ca3d5a181abcca5f0fc06d8e2b3661398e8bcab91e77704dc0cdc340ae320
+
+Block Under Construction
+block_7e68a537-cd5b-4be1-92c2-766e29f45caf
+Hash Value:c06d2ed4662ea49b4942626d7553191c6dcdf7bcc6fcc6926847b0dd3ba32f17
+Number of transaction:3
+Transactions ids:
+
+transaction_9ced31df-a07e-4231-8e7e-606bdb62f81d
+
+transaction_6bd600ef-9b6c-4c71-92f4-4570ebd8614b
+
+transaction_d0c62203-511a-4b28-89ee-d69d2e325926
+
+
+Random transaction
+
+User: user_e257f62e-60d8-47fd-a4f5-1b63b029d374 
+is attempting to send Coin_e05849b3-595a-4610-a0df-49a0466a2d57
+To user:user_43e72856-8ce2-463e-9c0b-dfa23c74297d
+Given this Previous Hash: b1d0b0b7a26988dab2b83bbc9914cfc8c8c3d0087e4643cca7c72d07d956cc9
+Transaction Hash: 52f64b74f0945a7622dad1043718d39a43f260021944496008303314ea4404a7
+
+Block Under Construction
+block_7e68a537-cd5b-4be1-92c2-766e29f45caf
+Hash Value:c06d2ed4662ea49b4942626d7553191c6dcdf7bcc6fcc6926847b0dd3ba32f17
+Number of transaction:4
+Transactions ids:
+
+transaction_9ced31df-a07e-4231-8e7e-606bdb62f81d
+
+transaction_6bd600ef-9b6c-4c71-92f4-4570ebd8614b
+
+transaction_d0c62203-511a-4b28-89ee-d69d2e325926
+
+transaction_44892227-eafb-4d68-8986-d76343918052
+
+
+Terminating Simulation

@@ -20,6 +20,7 @@ public class Entity {
 			
 		
 	}
+	//https://www.geeksforgeeks.org/sha-256-hash-in-java/
 	
 	public void Hash(String Value) {
 		try 

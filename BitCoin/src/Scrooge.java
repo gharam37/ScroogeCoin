@@ -20,7 +20,7 @@ public class Scrooge extends User {
 		this.id= "Scrooge_"+UUID.randomUUID().toString();
 
 		this.Blockchain= new ArrayList<Block>();
-		CurrentBlock= new Block(null,2);
+		CurrentBlock= new Block(null,10);
     	Scrooge=true;
     	
 		writer.println("Creating users and Assigning coins");
@@ -30,7 +30,7 @@ public class Scrooge extends User {
 		
 		// 10 users , 10 coins
 
-		CreateUsers(2,2);
+		CreateUsers(10,10);
 
 	}
 	
@@ -56,7 +56,7 @@ public class Scrooge extends User {
 			CreateCoins(NumberOfCoins,s);
 			Users.add(s);
 		}
-		System.out.println("Finished creating users\n");
+		System.out.println("Finished creating users\nNumber of users is:"+Users.size()+"\n");
 		writer.println("Finished creating users\n");
 		for(int i=0;i<Users.size();i++) {
 			System.out.println(Users.get(i)+"\n");
@@ -117,12 +117,13 @@ public class Scrooge extends User {
 	}
 	public boolean PayUser(User Sender,User Receiver, Coin c) throws Exception {
 		Transaction t;
-	    System.out.println("Random transaction\n");
-		writer.println("Random transaction\n");
+
 		if(Sender.Scrooge) {
 		 t= new Transaction(Sender.id,Receiver.id,c.id,null);
 		}
 		else {
+		    System.out.println("Random transaction\n");
+			writer.println("Random transaction\n");
 		  //Check Blockchain for ownership. Allow double spending if current block isn't published
 			String prevHash= CheckOwnerShip(Sender,c);
 			//System.out.println(prevHash+"\n");
@@ -197,8 +198,8 @@ public class Scrooge extends User {
 				}
 				
 			}
-			System.out.println("Sender In Update Membership"+Sender);
-			System.out.println("Receiver In Update Membership"+Sender);
+			System.out.println("Sender In Update Membership "+Sender+"\n");
+			System.out.println("Receiver In Update Membership "+Receiver+"\n");
 
 			for(int j=0;j<Sender.Wallet.size();j++) {
 				if(Sender.Wallet.get(j).id.equals(CoinId)) {
@@ -212,12 +213,12 @@ public class Scrooge extends User {
 			
 		}
 		
-		System.out.println("Updated users Wallets");
-		writer.println("Updated users Wallets");
+		System.out.println("Updated users Wallets\n");
+		writer.println("Updated users Wallets\n");
 		for(int i=0;i<Users.size();i++) {
 		
-			System.out.println(Users.get(i));
-			writer.println(Users.get(i));
+			System.out.println(Users.get(i).id+"\n"+Users.get(i).Wallet+"\n");
+			writer.println(Users.get(i).id+"\n"+Users.get(i).Wallet+"\n");
 
 		}
 
@@ -238,9 +239,9 @@ public class Scrooge extends User {
 		
 	}
 	public void Run() throws Exception {
+		Scanner input = new Scanner(System.in);
 		
-		 Scanner input = new Scanner(System.in);
-		   while(true) {
+		   while(true && !input.nextLine().equals(" ")) {
 			   //Pick 2 random users and a number of coins 
 			   
 			   //Loop to add several transactions
@@ -264,25 +265,39 @@ public class Scrooge extends User {
               writer.println("User: "+Sender.id+" Is sending User:"+Receiver.id+" "+(n+1)+" Coins"+"\n");
 
 
-              for(int i=0;i<n+1;i++) {
-            	
-              Coin c = Sender.Wallet.get(n);
+              System.out.println(Sender.Wallet.size()+"Wallet size");
+              System.out.println(Sender.Wallet+"WALLET OF SENDER");
+              /*If a new block is published and your wallet is updated with a smaller
+              wallet size you won't be able to send all the coins you randomly wanted to send at the start */
+              for(int i=0;i<n+1 ;i++) {
+                  int RandomCoinIndex = rand.nextInt(Sender.Wallet.size());
+
+            	  
+                  Coin c = Sender.Wallet.get(RandomCoinIndex);
            
               PayUser(Sender,Receiver,c);
               }
 			
+     		     /*Scanner input = new Scanner(System.in);
+
 
 				if(input.nextLine().equals(" ")) {
 
 			    	System.out.println("Terminating");
-					writer.close();
 
 			    	break;
-			    	}
+			    	}*/
 
 				
 		    
 		    }
+	    	System.out.println("Terminating Simulation");
+	    	writer.println("Terminating Simulation");
+
+
+		   
+			writer.close();
+
 		 
 	}
 	
@@ -293,8 +308,7 @@ public class Scrooge extends User {
 		Scrooge.Run();
 		
 
-		
-		
+     
 	}
 
 }
